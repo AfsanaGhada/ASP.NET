@@ -1,0 +1,15 @@
+D:\SEM_4\ASP.NET\PRACTICAL\TEST_1\obj\Debug\net8.0\TEST_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM_4\ASP.NET\PRACTICAL\TEST_1\obj\Debug\net8.0\TEST_1.AssemblyInfoInputs.cache
+D:\SEM_4\ASP.NET\PRACTICAL\TEST_1\obj\Debug\net8.0\TEST_1.AssemblyInfo.cs
+D:\SEM_4\ASP.NET\PRACTICAL\TEST_1\obj\Debug\net8.0\TEST_1.csproj.CoreCompileInputs.cache
+D:\SEM_4\ASP.NET\PRACTICAL\TEST_1\obj\Debug\net8.0\TEST_1.sourcelink.json
+D:\SEM_4\ASP.NET\PRACTICAL\TEST_1\bin\Debug\net8.0\TEST_1.exe
+D:\SEM_4\ASP.NET\PRACTICAL\TEST_1\bin\Debug\net8.0\TEST_1.deps.json
+D:\SEM_4\ASP.NET\PRACTICAL\TEST_1\bin\Debug\net8.0\TEST_1.runtimeconfig.json
+D:\SEM_4\ASP.NET\PRACTICAL\TEST_1\bin\Debug\net8.0\TEST_1.dll
+D:\SEM_4\ASP.NET\PRACTICAL\TEST_1\bin\Debug\net8.0\TEST_1.pdb
+D:\SEM_4\ASP.NET\PRACTICAL\TEST_1\obj\Debug\net8.0\TEST_1.dll
+D:\SEM_4\ASP.NET\PRACTICAL\TEST_1\obj\Debug\net8.0\refint\TEST_1.dll
+D:\SEM_4\ASP.NET\PRACTICAL\TEST_1\obj\Debug\net8.0\TEST_1.pdb
+D:\SEM_4\ASP.NET\PRACTICAL\TEST_1\obj\Debug\net8.0\TEST_1.genruntimeconfig.cache
+D:\SEM_4\ASP.NET\PRACTICAL\TEST_1\obj\Debug\net8.0\ref\TEST_1.dll

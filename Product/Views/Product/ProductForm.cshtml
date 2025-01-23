@@ -1,0 +1,133 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<body class="bg-info">
+
+    <div class="container py-5">
+
+        <div class="bg-white border border-dark rounded p-4 shadow-lg text-info bg-dark">
+            <div class="bg-primary text-center text-light p-4 ">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="25" fill="currentColor" class=" bi-geo-alt"
+                     viewBox="0 0 16 16">
+                    <path d="M12.166 8.94c-.524 1.062-1.234 2.12-1.96 3.07A32 32 0 0 1 8 14.58a32 32 0 0 1-2.206-2.57c-.726-.95-1.436-2.008-1.96-3.07C3.304 7.867 3 6.862 3 6a5 5 0 0 1 10 0c0 .862-.305 1.867-.834 2.94M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10" />
+                    <path d="M8 8a2 2 0 1 1 0-4 2 2 0 0 1 0 4m0 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6" />
+                </svg>
+            </div>
+            <h1 class="text-center text-info font-weight-bold">Product Detail</h1>
+
+            <div class="row mb-3">
+                <div class="col-md-4">
+                    <label for="id" class="form-label text-dark">Product ID</label><span class="text-danger"> *</span>
+                </div>
+                <div class="col-md-8">
+                    <input type="id" class="form-control bg-light" id="id">
+                </div>
+            </div>
+
+                <div class="row mb-3">
+                    <div class="col-md-4">
+                        <label for="name" class="form-label text-dark">Name</label><span class="text-danger"> *</span>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control bg-light" id="name">
+                    </div>
+                </div>
+
+
+
+            <div class="row mb-3">
+                <div class="col-md-4">
+                    <label for="Discription" class="form-label text-dark">Discription<span><span class="text-danger"> *</span>
+                </div>
+                <div class="col-md-8">
+                    <input type="text" class="form-control bg-light" id="orderId">
+                </div>
+            </div>
+
+      
+
+
+
+                <div class="row mb-3">
+                    <div class="col-md-4">
+                        <label for="Price" class="form-label text-dark">Price<span><span class="text-danger"> *</span>
+                    </div>
+                    <div class="col-md-8">
+                        <input type="text" class="form-control bg-light" id="Price">
+                    </div>
+                </div>
+
+                <div class="row mb-3">
+                    <div class="col-md-4">
+                    <label for="Catagory" class="form-label text-dark">Catagory</label><span class="text-danger"> *</span>
+                    </div>
+                    <div class="col-md-8">
+                    <div class="col-md-4">
+                        <select class="form-select bg-light">
+
+                            <option selected disabled>-Catagory-</option>
+
+                            <option value="Cloths">Cloths</option>
+                            <option value="Food">Food</option>
+                            <option value="Electronic">Electronic</option>
+                            <option value="Make up">Make Up</option>
+                        </select>
+
+                    </div>
+                    </div>
+                </div>
+            <div class="row mb-3">
+                <div class="col-md-4">
+                    <label for="Stock_Qquntity" class="form-label text-dark">Stock_Qquntity</label><span class="text-danger"> *</span>
+                </div>
+                <div class="col-md-8">
+                    <input type="text" class="form-control bg-light" id="Stock_Qquntity">
+
+                </div>
+            </div>
+            <div class="row mb-3">
+                <div class="col-md-4">
+                    <label for="ISActive" class="form-label text-dark">IS Active</label><span class="text-danger"> *</span>
+                </div>
+                <div class="col-md-8">
+
+                    <div class="form-check me-3">
+                        <input class="form-check-input" type="radio" id="IsActiveYes" name="IsActive" value="true">
+                        <label class="form-check-label" for="IsActiveYes">Yes</label>
+                    </div>
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" id="IsActiveNo" name="IsActive" value="false">
+                        <label class="form-check-label" for="IsActiveNo">No</label>
+                    </div>
+                </div>
+            </div>
+            
+                   
+            <div class="row mb-3">
+                <div class="col-md-4">
+                    <label for="ReleaseDate" class="form-label text-dark">Release Date</label><span class="text-danger"> *</span>
+                </div>
+                <div class="col-md-8">
+                    <input type="text" class="form-control bg-light" id="Release Date">
+
+                </div>
+            </div>
+            <div class="row mb-3">
+                <div class="col-md-4">
+                    <label for="ImageURL" class="form-label text-dark"> ImageURL</label><span class="text-danger"> *</span>
+                </div>
+                <div class="col-md-8">
+                    <input type="text" class="form-control bg-light" id=" ImageURL">
+
+                </div>
+            </div>
+            
+            <div class="text-center">
+                        <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+
+   </div>
+   </div>
+</body>

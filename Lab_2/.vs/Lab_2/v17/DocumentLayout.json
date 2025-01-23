@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Lab_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC454E9C-5FDD-486D-B2E0-F97402C4533A}|Lab_2.csproj|d:\\sem_4\\asp.net\\practical\\lab_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC454E9C-5FDD-486D-B2E0-F97402C4533A}|Lab_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC454E9C-5FDD-486D-B2E0-F97402C4533A}|Lab_2.csproj|d:\\sem_4\\asp.net\\practical\\lab_2\\gross.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC454E9C-5FDD-486D-B2E0-F97402C4533A}|Lab_2.csproj|solutionrelative:gross.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC454E9C-5FDD-486D-B2E0-F97402C4533A}|Lab_2.csproj|d:\\sem_4\\asp.net\\practical\\lab_2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC454E9C-5FDD-486D-B2E0-F97402C4533A}|Lab_2.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC454E9C-5FDD-486D-B2E0-F97402C4533A}|Lab_2.csproj|d:\\sem_4\\asp.net\\practical\\lab_2\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC454E9C-5FDD-486D-B2E0-F97402C4533A}|Lab_2.csproj|solutionrelative:staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC454E9C-5FDD-486D-B2E0-F97402C4533A}|Lab_2.csproj|d:\\sem_4\\asp.net\\practical\\lab_2\\distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC454E9C-5FDD-486D-B2E0-F97402C4533A}|Lab_2.csproj|solutionrelative:distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC454E9C-5FDD-486D-B2E0-F97402C4533A}|Lab_2.csproj|d:\\sem_4\\asp.net\\practical\\lab_2\\account_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC454E9C-5FDD-486D-B2E0-F97402C4533A}|Lab_2.csproj|solutionrelative:account_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC454E9C-5FDD-486D-B2E0-F97402C4533A}|Lab_2.csproj|d:\\sem_4\\asp.net\\practical\\lab_2\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC454E9C-5FDD-486D-B2E0-F97402C4533A}|Lab_2.csproj|solutionrelative:salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC454E9C-5FDD-486D-B2E0-F97402C4533A}|Lab_2.csproj|d:\\sem_4\\asp.net\\practical\\lab_2\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC454E9C-5FDD-486D-B2E0-F97402C4533A}|Lab_2.csproj|solutionrelative:furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC454E9C-5FDD-486D-B2E0-F97402C4533A}|Lab_2.csproj|d:\\sem_4\\asp.net\\practical\\lab_2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC454E9C-5FDD-486D-B2E0-F97402C4533A}|Lab_2.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Lab_2\\Staff.cs",
+              "RelativeDocumentMoniker": "Staff.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Lab_2\\Staff.cs",
+              "RelativeToolTip": "Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:48:09.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gross.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Lab_2\\Gross.cs",
+              "RelativeDocumentMoniker": "Gross.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Lab_2\\Gross.cs",
+              "RelativeToolTip": "Gross.cs",
+              "ViewState": "AgIAAB4AAAAAvszMzMwEwDIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:43:27.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Furniture.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Lab_2\\Furniture.cs",
+              "RelativeDocumentMoniker": "Furniture.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Lab_2\\Furniture.cs",
+              "RelativeToolTip": "Furniture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:24:41.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Distance.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Lab_2\\Distance.cs",
+              "RelativeDocumentMoniker": "Distance.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Lab_2\\Distance.cs",
+              "RelativeToolTip": "Distance.cs",
+              "ViewState": "AgIAAA8AAAAAzczMzEwSwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:23:01.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Lab_2\\Salary.cs",
+              "RelativeDocumentMoniker": "Salary.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Lab_2\\Salary.cs",
+              "RelativeToolTip": "Salary.cs",
+              "ViewState": "AgIAABAAAACAMjMzMzMXwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:21:21.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account_Details.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Lab_2\\Account_Details.cs",
+              "RelativeDocumentMoniker": "Account_Details.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Lab_2\\Account_Details.cs",
+              "RelativeToolTip": "Account_Details.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:20:36.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Lab_2\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Lab_2\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAoAAAAA/f////8PwBwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T02:55:35.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Lab_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Lab_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEkAAAAAAgAAAAAgwGMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:39:15.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Lab_2\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Rectangle.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Lab_2\\Rectangle.cs",
+              "RelativeToolTip": "Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T02:57:43.246Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

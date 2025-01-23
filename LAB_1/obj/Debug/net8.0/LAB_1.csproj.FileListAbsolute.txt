@@ -1,0 +1,14 @@
+D:\SEM_4\ASP.NET\PRACTICAL\LAB_1\bin\Debug\net8.0\LAB_1.exe
+D:\SEM_4\ASP.NET\PRACTICAL\LAB_1\bin\Debug\net8.0\LAB_1.deps.json
+D:\SEM_4\ASP.NET\PRACTICAL\LAB_1\bin\Debug\net8.0\LAB_1.runtimeconfig.json
+D:\SEM_4\ASP.NET\PRACTICAL\LAB_1\bin\Debug\net8.0\LAB_1.dll
+D:\SEM_4\ASP.NET\PRACTICAL\LAB_1\bin\Debug\net8.0\LAB_1.pdb
+D:\SEM_4\ASP.NET\PRACTICAL\LAB_1\obj\Debug\net8.0\LAB_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM_4\ASP.NET\PRACTICAL\LAB_1\obj\Debug\net8.0\LAB_1.AssemblyInfoInputs.cache
+D:\SEM_4\ASP.NET\PRACTICAL\LAB_1\obj\Debug\net8.0\LAB_1.AssemblyInfo.cs
+D:\SEM_4\ASP.NET\PRACTICAL\LAB_1\obj\Debug\net8.0\LAB_1.csproj.CoreCompileInputs.cache
+D:\SEM_4\ASP.NET\PRACTICAL\LAB_1\obj\Debug\net8.0\LAB_1.dll
+D:\SEM_4\ASP.NET\PRACTICAL\LAB_1\obj\Debug\net8.0\refint\LAB_1.dll
+D:\SEM_4\ASP.NET\PRACTICAL\LAB_1\obj\Debug\net8.0\LAB_1.pdb
+D:\SEM_4\ASP.NET\PRACTICAL\LAB_1\obj\Debug\net8.0\LAB_1.genruntimeconfig.cache
+D:\SEM_4\ASP.NET\PRACTICAL\LAB_1\obj\Debug\net8.0\ref\LAB_1.dll

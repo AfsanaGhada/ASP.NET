@@ -1,0 +1,14 @@
+D:\SEM_4\ASP.NET\PRACTICAL\Lab_2\obj\Debug\net8.0\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM_4\ASP.NET\PRACTICAL\Lab_2\obj\Debug\net8.0\Lab_2.AssemblyInfoInputs.cache
+D:\SEM_4\ASP.NET\PRACTICAL\Lab_2\obj\Debug\net8.0\Lab_2.AssemblyInfo.cs
+D:\SEM_4\ASP.NET\PRACTICAL\Lab_2\obj\Debug\net8.0\Lab_2.csproj.CoreCompileInputs.cache
+D:\SEM_4\ASP.NET\PRACTICAL\Lab_2\bin\Debug\net8.0\Lab_2.exe
+D:\SEM_4\ASP.NET\PRACTICAL\Lab_2\bin\Debug\net8.0\Lab_2.deps.json
+D:\SEM_4\ASP.NET\PRACTICAL\Lab_2\bin\Debug\net8.0\Lab_2.runtimeconfig.json
+D:\SEM_4\ASP.NET\PRACTICAL\Lab_2\bin\Debug\net8.0\Lab_2.dll
+D:\SEM_4\ASP.NET\PRACTICAL\Lab_2\bin\Debug\net8.0\Lab_2.pdb
+D:\SEM_4\ASP.NET\PRACTICAL\Lab_2\obj\Debug\net8.0\Lab_2.dll
+D:\SEM_4\ASP.NET\PRACTICAL\Lab_2\obj\Debug\net8.0\refint\Lab_2.dll
+D:\SEM_4\ASP.NET\PRACTICAL\Lab_2\obj\Debug\net8.0\Lab_2.pdb
+D:\SEM_4\ASP.NET\PRACTICAL\Lab_2\obj\Debug\net8.0\Lab_2.genruntimeconfig.cache
+D:\SEM_4\ASP.NET\PRACTICAL\Lab_2\obj\Debug\net8.0\ref\Lab_2.dll

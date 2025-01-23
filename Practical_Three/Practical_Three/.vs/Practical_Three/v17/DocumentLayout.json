@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Practical_Three\\Practical_Three\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|d:\\sem_4\\asp.net\\practical\\practical_three\\practical_three\\practical_three\\dividebyzero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|solutionrelative:practical_three\\dividebyzero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|d:\\sem_4\\asp.net\\practical\\practical_three\\practical_three\\practical_three\\convertedstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|solutionrelative:practical_three\\convertedstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|d:\\sem_4\\asp.net\\practical\\practical_three\\practical_three\\practical_three\\charctercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|solutionrelative:practical_three\\charctercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|d:\\sem_4\\asp.net\\practical\\practical_three\\practical_three\\practical_three\\abstarctsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|solutionrelative:practical_three\\abstarctsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|d:\\sem_4\\asp.net\\practical\\practical_three\\practical_three\\practical_three\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|solutionrelative:practical_three\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|d:\\sem_4\\asp.net\\practical\\practical_three\\practical_three\\practical_three\\stringmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF85844-1E10-45C5-A304-249484C10164}|Practical_Three\\Practical_Three.csproj|solutionrelative:practical_three\\stringmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StringMethod.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Practical_Three\\Practical_Three\\Practical_Three\\StringMethod.cs",
+              "RelativeDocumentMoniker": "Practical_Three\\StringMethod.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Practical_Three\\Practical_Three\\Practical_Three\\StringMethod.cs",
+              "RelativeToolTip": "Practical_Three\\StringMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:05:23.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DivideBYZero.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Practical_Three\\Practical_Three\\Practical_Three\\DivideBYZero.cs",
+              "RelativeDocumentMoniker": "Practical_Three\\DivideBYZero.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Practical_Three\\Practical_Three\\Practical_Three\\DivideBYZero.cs",
+              "RelativeToolTip": "Practical_Three\\DivideBYZero.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAABjPRsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:57:54.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConvertedString.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Practical_Three\\Practical_Three\\Practical_Three\\ConvertedString.cs",
+              "RelativeDocumentMoniker": "Practical_Three\\ConvertedString.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Practical_Three\\Practical_Three\\Practical_Three\\ConvertedString.cs",
+              "RelativeToolTip": "Practical_Three\\ConvertedString.cs",
+              "ViewState": "AgIAAAUAAAAAMjMzMzMrwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:57:44.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbstarctSum.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Practical_Three\\Practical_Three\\Practical_Three\\AbstarctSum.cs",
+              "RelativeDocumentMoniker": "Practical_Three\\AbstarctSum.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Practical_Three\\Practical_Three\\Practical_Three\\AbstarctSum.cs",
+              "RelativeToolTip": "Practical_Three\\AbstarctSum.cs",
+              "ViewState": "AgIAAAUAAAAAMTMzMzMLwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:57:37.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharcterCheck.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Practical_Three\\Practical_Three\\Practical_Three\\CharcterCheck.cs",
+              "RelativeDocumentMoniker": "Practical_Three\\CharcterCheck.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Practical_Three\\Practical_Three\\Practical_Three\\CharcterCheck.cs",
+              "RelativeToolTip": "Practical_Three\\CharcterCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:35:38.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Practical_Three\\Practical_Three\\Practical_Three\\Program.cs",
+              "RelativeDocumentMoniker": "Practical_Three\\Program.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\Practical_Three\\Practical_Three\\Practical_Three\\Program.cs",
+              "RelativeToolTip": "Practical_Three\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:57:03.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

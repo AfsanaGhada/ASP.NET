@@ -1,0 +1,103 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Table</title>
+    <style>
+        table {
+            /*width: 20%;*/
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            /*padding: 4px;*/
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+        
+    </style>
+</head>
+<body>
+
+    <h1>Employee Details</h1>
+    <a class="btn-success" asp-area="" asp-controller="Employee" asp-action="Employee_Form">Add Employee</a>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Employee ID</th>
+                <th>Employee Name</th>
+                <th>Employee Salary</th>
+                <th>Employee Shift</th>
+                <th>Employee Designation</th>
+                <th>Employee Age</th>
+                <th>Employee DOB</th>
+                <th>Employee Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>101</td>
+                <td>Ghada Afsana</td>
+                <td>50,000</td>
+                <td>Day</td>
+                <td>Manager</td>
+                <td>35</td>
+                <td>1988-05-20</td>
+                <td>GhadaAfsana@example.com</td>
+            </tr>
+            <tr>
+                <td>102</td>
+                <td>Ghada Asana</td>
+                <td>45,000</td>
+                <td>Night</td>
+                <td>Developer</td>
+                <td>29</td>
+                <td>1994-03-15</td>
+                <td>GhadaAsana@example.com</td>
+            </tr>
+            <tr>
+                <td>103</td>
+                <td>Ghada Raila</td>
+                <td>55,000</td>
+                <td>Day</td>
+                <td>Team Lead</td>
+                <td>40</td>
+                <td>1983-09-10</td>
+                <td>GhadaRaila@example.com</td>
+            </tr>
+            <tr>
+                <td>104</td>
+                <td>Ghada Fezan</td>
+                <td>55,000</td>
+                <td>Day</td>
+                <td>Team Lead</td>
+                <td>40</td>
+                <td>1983-09-10</td>
+                <td>GhadaFezan@example.com</td>
+            </tr>
+            <tr>
+                <td>105</td>
+                <td>Ghada Yasin</td>
+                <td>55,000</td>
+                <td>Day</td>
+                <td>Team Lead</td>
+                <td>40</td>
+                <td>1983-09-10</td>
+                <td>GhadaYasin@example.com</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

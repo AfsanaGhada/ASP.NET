@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B44EB0F9-E5C2-4692-8914-5E0FA5B89626}|LAB_4.csproj|d:\\sem_4\\asp.net\\practical\\lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44EB0F9-E5C2-4692-8914-5E0FA5B89626}|LAB_4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44EB0F9-E5C2-4692-8914-5E0FA5B89626}|LAB_4.csproj|d:\\sem_4\\asp.net\\practical\\lab_4\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44EB0F9-E5C2-4692-8914-5E0FA5B89626}|LAB_4.csproj|solutionrelative:hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44EB0F9-E5C2-4692-8914-5E0FA5B89626}|LAB_4.csproj|d:\\sem_4\\asp.net\\practical\\lab_4\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44EB0F9-E5C2-4692-8914-5E0FA5B89626}|LAB_4.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44EB0F9-E5C2-4692-8914-5E0FA5B89626}|LAB_4.csproj|d:\\sem_4\\asp.net\\practical\\lab_4\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44EB0F9-E5C2-4692-8914-5E0FA5B89626}|LAB_4.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44EB0F9-E5C2-4692-8914-5E0FA5B89626}|LAB_4.csproj|d:\\sem_4\\asp.net\\practical\\lab_4\\rbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44EB0F9-E5C2-4692-8914-5E0FA5B89626}|LAB_4.csproj|solutionrelative:rbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44EB0F9-E5C2-4692-8914-5E0FA5B89626}|LAB_4.csproj|d:\\sem_4\\asp.net\\practical\\lab_4\\areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44EB0F9-E5C2-4692-8914-5E0FA5B89626}|LAB_4.csproj|solutionrelative:areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44EB0F9-E5C2-4692-8914-5E0FA5B89626}|LAB_4.csproj|d:\\sem_4\\asp.net\\practical\\lab_4\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44EB0F9-E5C2-4692-8914-5E0FA5B89626}|LAB_4.csproj|solutionrelative:addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_4\\Hospital.cs",
+              "RelativeDocumentMoniker": "Hospital.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_4\\Hospital.cs",
+              "RelativeToolTip": "Hospital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T03:17:41.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_4\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_4\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T03:25:15.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_4\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_4\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T03:21:40.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RBI.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_4\\RBI.cs",
+              "RelativeDocumentMoniker": "RBI.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_4\\RBI.cs",
+              "RelativeToolTip": "RBI.cs",
+              "ViewState": "AgIAAAwAAADgAAAAAMAjwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T03:10:42.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AreaCalculator.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_4\\AreaCalculator.cs",
+              "RelativeDocumentMoniker": "AreaCalculator.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_4\\AreaCalculator.cs",
+              "RelativeToolTip": "AreaCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T03:06:45.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Addition.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_4\\Addition.cs",
+              "RelativeDocumentMoniker": "Addition.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_4\\Addition.cs",
+              "RelativeToolTip": "Addition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:23:23.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAEAAAAAD2vxIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:21:09.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

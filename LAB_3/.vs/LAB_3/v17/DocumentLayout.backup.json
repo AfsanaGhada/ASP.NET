@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|d:\\sem_4\\asp.net\\practical\\lab_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|d:\\sem_4\\asp.net\\practical\\lab_3\\charctercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|solutionrelative:charctercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|d:\\sem_4\\asp.net\\practical\\lab_3\\p-3_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|solutionrelative:p-3_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|d:\\sem_4\\asp.net\\practical\\lab_3\\p-3_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|solutionrelative:p-3_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|d:\\sem_4\\asp.net\\practical\\lab_3\\p-3_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|solutionrelative:p-3_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|d:\\sem_4\\asp.net\\practical\\lab_3\\replacechar_demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|solutionrelative:replacechar_demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|d:\\sem_4\\asp.net\\practical\\lab_3\\pr_1_devidebyzeroexe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|solutionrelative:pr_1_devidebyzeroexe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|d:\\sem_4\\asp.net\\practical\\lab_3\\p-3_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|solutionrelative:p-3_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|d:\\sem_4\\asp.net\\practical\\lab_3\\p-3_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|solutionrelative:p-3_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|d:\\sem_4\\asp.net\\practical\\lab_3\\p-3_9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|solutionrelative:p-3_9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|d:\\sem_4\\asp.net\\practical\\lab_3\\p-3_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|solutionrelative:p-3_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|d:\\sem_4\\asp.net\\practical\\lab_3\\pr_2_indexoutofrange_exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8786B86D-6618-49DD-A870-7AB40B32F9A8}|LAB_3.csproj|solutionrelative:pr_2_indexoutofrange_exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\P-3_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P-3_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\DevideByZeroExeptiondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DevideByZeroExeptiondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\IndexOutOfRange_Exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IndexOutOfRange_Exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharcterCheck.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\CharcterCheck.cs",
+              "RelativeDocumentMoniker": "CharcterCheck.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\CharcterCheck.cs",
+              "RelativeToolTip": "CharcterCheck.cs",
+              "ViewState": "AgIAAAsAAADAmJmZmZkdwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T02:56:39.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwFEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:36:44.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "P-3_5.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\P-3_5.cs",
+              "RelativeDocumentMoniker": "P-3_5.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\P-3_5.cs",
+              "RelativeToolTip": "P-3_5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:49:54.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "P-3_8.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\P-3_8.cs",
+              "RelativeDocumentMoniker": "P-3_8.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\P-3_8.cs",
+              "RelativeToolTip": "P-3_8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T02:27:38.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Replacechar_demo.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\Replacechar_demo.cs",
+              "RelativeDocumentMoniker": "Replacechar_demo.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\Replacechar_demo.cs",
+              "RelativeToolTip": "Replacechar_demo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:49:57.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "pr_1_devidebyzeroexe.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\pr_1_devidebyzeroexe.cs",
+              "RelativeDocumentMoniker": "pr_1_devidebyzeroexe.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\pr_1_devidebyzeroexe.cs",
+              "RelativeToolTip": "pr_1_devidebyzeroexe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:32:05.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "P-3_3.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\P-3_3.cs",
+              "RelativeDocumentMoniker": "P-3_3.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\P-3_3.cs",
+              "RelativeToolTip": "P-3_3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:46:05.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "P-3_2.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\P-3_2.cs",
+              "RelativeDocumentMoniker": "P-3_2.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\P-3_2.cs",
+              "RelativeToolTip": "P-3_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T02:21:24.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "P-3_4.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\P-3_4.cs",
+              "RelativeDocumentMoniker": "P-3_4.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\P-3_4.cs",
+              "RelativeToolTip": "P-3_4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:11:38.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "P-3_9.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\P-3_9.cs",
+              "RelativeDocumentMoniker": "P-3_9.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\P-3_9.cs",
+              "RelativeToolTip": "P-3_9.cs",
+              "ViewState": "AgIAAA8AAAAANTMzMzPzvxMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T02:22:31.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "P-3_7.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\P-3_7.cs",
+              "RelativeDocumentMoniker": "P-3_7.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\P-3_7.cs",
+              "RelativeToolTip": "P-3_7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:47:29.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "pr_2_IndexOutOfRange_Exception.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\pr_2_IndexOutOfRange_Exception.cs",
+              "RelativeDocumentMoniker": "pr_2_IndexOutOfRange_Exception.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\pr_2_IndexOutOfRange_Exception.cs",
+              "RelativeToolTip": "pr_2_IndexOutOfRange_Exception.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:33:46.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DevideByZeroExeptiondemo.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\DevideByZeroExeptiondemo.cs",
+              "RelativeDocumentMoniker": "DevideByZeroExeptiondemo.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\DevideByZeroExeptiondemo.cs",
+              "RelativeToolTip": "DevideByZeroExeptiondemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:12:16.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IndexOutOfRange_Exception.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\IndexOutOfRange_Exception.cs",
+              "RelativeDocumentMoniker": "IndexOutOfRange_Exception.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\IndexOutOfRange_Exception.cs",
+              "RelativeToolTip": "IndexOutOfRange_Exception.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:52:42.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "P-3_1.cs",
+              "DocumentMoniker": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\P-3_1.cs",
+              "RelativeDocumentMoniker": "P-3_1.cs",
+              "ToolTip": "D:\\SEM_4\\ASP.NET\\PRACTICAL\\LAB_3\\P-3_1.cs",
+              "RelativeToolTip": "P-3_1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:30:39.325Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

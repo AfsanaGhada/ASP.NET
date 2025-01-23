@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Order/Delivery Tracking</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body class="bg-info">
+
+  <div class="container py-5">
+
+    <div class="bg-white border border-dark rounded p-4 shadow-lg text-info bg-dark">
+      <div class="bg-primary text-center text-light p-4 ">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="25" fill="currentColor" class=" bi-geo-alt"
+          viewBox="0 0 16 16">
+          <path
+            d="M12.166 8.94c-.524 1.062-1.234 2.12-1.96 3.07A32 32 0 0 1 8 14.58a32 32 0 0 1-2.206-2.57c-.726-.95-1.436-2.008-1.96-3.07C3.304 7.867 3 6.862 3 6a5 5 0 0 1 10 0c0 .862-.305 1.867-.834 2.94M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10" />
+          <path d="M8 8a2 2 0 1 1 0-4 2 2 0 0 1 0 4m0 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6" />
+        </svg>
+      </div>
+      <h1 class="text-center text-info font-weight-bold">Order/Delivery Tracking</h1>
+      <h4 class="text-center text-info">Trace your order</h4>
+
+      <div class="mt-4">
+        <h5 class="text-left">Personal Information</h5>
+        <hr class="border-primary">
+
+        <div class="row mb-3">
+          <div class="col-md-4">
+            <label for="name" class="form-label text-dark">Name</label><span class="text-danger"> *</span>
+          </div>
+          <div class="col-md-8">
+            <input type="text" class="form-control bg-light" id="name">
+          </div>
+        </div>
+
+        <div class="row mb-3">
+          <div class="col-md-4">
+            <label for="email" class="form-label text-dark">Email</label><span class="text-danger"> *</span>
+          </div>
+          <div class="col-md-8">
+            <input type="email" class="form-control bg-light" id="email">
+          </div>
+        </div>
+
+        <div class="row mb-3">
+          <div class="col-md-4">
+            <label for="contact" class="form-label text-dark">Contact Number</label><span class="text-danger">
+              *</span>
+          </div>
+          <div class="col-md-8">
+            <input type="text" class="form-control bg-light" id="contact">
+            <p class="text-dark">as per your order</p>
+
+          </div>
+
+        </div>
+
+      </div>
+
+
+
+      <div class="mt-4">
+        <h5 class="text-left">Order Information</h5>
+        <hr class="border-primary">
+
+        <div class="row mb-3">
+          <div class="col-md-4">
+            <label for="orderId" class="form-label text-dark">Order Id<span><span class="text-danger"> *</span>
+          </div>
+          <div class="col-md-8">
+            <input type="text" class="form-control bg-light" id="orderId">
+          </div>
+        </div>
+
+        <div class="row mb-3">
+          <div class="col-md-4">
+            <label for="deliveryDestination" class="form-label text-dark">Delivery Destination</label><span
+              class="text-danger"> *</span>
+          </div>
+          <div class="col-md-8">
+            <input type="text" class="form-control bg-light" id="deliveryDestination">
+            <p class="text-dark col-md-11">Street Address</p>
+
+          </div>
+        </div>
+
+        <div class="row mb-2">
+
+          <div class="row mb-3">
+
+            <div class="col-md-4"> </div>
+            <div class="col-md-8">
+              <input type="text" class="form-control bg-light">
+              <p class="text-dark">Address line 2</p>
+
+
+            </div>
+          </div>
+
+          <div class="row mb-3">
+            <div class="col-md-4">
+            </div>
+            <div class="col-md-4">
+              <input type="text" class="form-control bg-light">
+              <p class="text-dark">City</p>
+
+            </div>
+            <div class="col-md-4">
+              <input type="text" class="form-control bg-light">
+              <p class="text-dark">State/Region/Province</p>
+
+            </div>
+          </div>
+
+          <div class="row mb-3">
+            <div class="col-md-4">
+            </div>
+            <div class="col-md-4">
+              <input type="text" class="form-control bg-light">
+              <p class="text-dark">Postal/Zip code</p>
+
+            </div>
+            <div class="col-md-4">
+              <select class="form-select bg-light">
+
+                <option selected disabled>-state-</option>
+
+                <option value="USA">United States</option>
+                <option value="CAN">Canada</option>
+                <option value="AUS">Australia</option>
+                <option value="IND">India</option>
+              </select>
+              <p class="text-dark">Country</p>
+
+            </div>
+          </div>
+
+          <div class="row mb-3">
+            <div class="col-md-4">
+              <label class="form-label text-dark">When did you place your order?</label><span class="text-danger">
+                *</span>
+            </div>
+            <div class="col-md-8 d-flex">
+              <input type="text" class="form-control bg-light" id="orderDate" style="width: 50%;" />
+
+              <i class="fa fa-calendar ms-2" style="font-size: 20px; line-height: 2.5;"></i>
+              <p class="text-dark col-md-8">dd-mm-yyyy</p>
+
+            </div>
+            <div class="col-md-4">
+
+            </div>
+            <div class="col-md-8">
+              <p class="text-dark col-md-8">dd-mm-yyyy</p>
+            </div>
+
+          </div>
+
+          <div class="text-center">
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </div>
+
+        </div>
+      </div>
+    </div>
+</body>
+
+</html>
