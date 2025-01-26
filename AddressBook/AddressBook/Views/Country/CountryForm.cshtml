@@ -1,7 +1,7 @@
 ﻿<main id="main" class="main">
 
     <div class="pagetitle">
-        <h1>CountryForm Layouts</h1>
+        <h1>Country</h1>
         <nav>
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="index.html">Country</a></li>
@@ -22,10 +22,10 @@
                                 <div class="container mt-5">
                                     <h2 class="mb-4">Country Information Form</h2>
                                     <form action="#" method="POST">
-                                        <div class="mb-3">
-                                            <label for="countryid" class="form-label">Country ID</label>
-                                            <input type="text" class="form-control" id="countryid" name="countryid" required>
-                                        </div>
+                                        @* <div class="mb-3"> *@
+                                        @*     <label for="countryid" class="form-label">Country ID</label> *@
+                                        @*     <input type="text" class="form-control" id="countryid" name="countryid" required> *@
+                                        @* </div> *@
                                         <div class="mb-3">
                                             <label for="countryname" class="form-label">Country Name</label>
                                             <input type="text" class="form-control" id="countryname" name="countryname" required>
@@ -34,11 +34,13 @@
                                             <label for="countrycode" class="form-label">Country Code</label>
                                             <input type="text" class="form-control" id="countrycode" name="countrycode" required>
                                         </div>
-                                        <div class="mb-3">
-                                            <label for="creationdate" class="form-label">Creation Date</label>
-                                            <input type="date" class="form-control" id="creationdate" name="creationdate" required>
-                                        </div>
+                                        @* <div class="mb-3"> *@
+                                        @*     <label for="creationdate" class="form-label">Creation Date</label> *@
+                                        @*     <input type="date" class="form-control" id="creationdate" name="creationdate" required> *@
+                                        @* </div> *@
                                         <button type="submit" class="btn btn-primary">Submit</button>
+                                    <a class="btn btn-danger" asp-area="" asp-controller="Country" asp-action="CountryList">Cancle</a>
+
                                     </form>
                                 </div>
 

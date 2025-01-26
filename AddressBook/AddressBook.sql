@@ -2,7 +2,7 @@
 select * from Country
 select * from State
 select * from City
-
+select * from Users
 
 -- Creating the Country table
 CREATE TABLE Country (
@@ -31,6 +31,14 @@ CREATE TABLE City (
     PinCode VARCHAR(6) NULL,                       -- Null allowed
     CreationDate DATETIME NOT NULL DEFAULT GETDATE(), -- Default value set to current date/time
     FOREIGN KEY (StateID) REFERENCES State(StateID)   -- Foreign Key Constraint
+);
+
+CREATE TABLE Users (
+    UserID INT PRIMARY KEY IDENTITY(1,1) NOT NULL,
+    UserName VARCHAR(100) NOT NULL,
+    MobileNo VARCHAR(50) NOT NULL,
+    EmailID VARCHAR(100) NOT NULL,
+    CreationDate DATETIME NOT NULL DEFAULT GETDATE()
 );
 
 -----------------------Store Procedure--------------------------
@@ -227,4 +235,84 @@ EXEC Sp_MST_City_Insert @StateID = 1, @CityName = 'Los Angeles', @STDCode = '323
 EXEC Sp_MST_City_Insert @StateID = 1, @CityName = 'India', @STDCode = '111', @PinCode = '90002';
 EXEC Sp_MST_City_Update @CityID = 1, @StateID = 1, @CityName = 'New York', @STDCode = '212', @PinCode = '10001';
 EXEC Sp_MST_City_DeleteByID @CityID = 1;
+
+---------------------------------- store procedure for Users----------------------------
+-- Stored Procedure: Select All User
+CREATE PROCEDURE Sp_User_SelectAll
+AS
+BEGIN
+    SELECT UserID, UserName, MobileNo, EmailID, CreationDate
+    FROM Users;
+END;
+
+
+-- Stored Procedure: Select user by ID
+CREATE PROCEDURE Sp_User_SelectByID
+    @UserID INT
+AS
+BEGIN
+    SELECT UserID, UserName, MobileNo, EmailID, CreationDate
+    FROM Users
+    WHERE UserID = @UserID;
+END;
+
+
+-- Stored Procedure: Insert a New Users
+CREATE PROCEDURE Sp_User_Insert
+    @UserName VARCHAR(100),
+    @MobileNo VARCHAR(50),
+    @EmailID VARCHAR(100)
+AS
+BEGIN
+    INSERT INTO Users (UserName, MobileNo, EmailID, CreationDate)
+    VALUES (@UserName, @MobileNo, @EmailID, GETDATE());
+END;
+
+
+-- Stored Procedure: Update an Existing User
+CREATE PROCEDURE Sp_User_Update
+    @UserID INT,
+    @UserName VARCHAR(100),
+    @MobileNo VARCHAR(50),
+    @EmailID VARCHAR(100)
+AS
+BEGIN
+    UPDATE Users
+    SET UserName = @UserName,
+        MobileNo = @MobileNo,
+        EmailID = @EmailID,
+        CreationDate = GETDATE()
+    WHERE UserID = @UserID;
+END;
+
+
+-- Stored Procedure: Delete a City by ID
+CREATE PROCEDURE Sp_User_DeleteByID
+    @UserID INT
+AS
+BEGIN
+    DELETE FROM Users
+    WHERE UserID = @UserID;
+END;
+
+
+--------------------------exicute-----------------------------
+-- To execute the stored procedures:
+
+-- Select all users
+EXEC Sp_User_SelectAll;
+
+-- Select a user by ID
+EXEC Sp_User_SelectByID @UserID = 1;
+
+-- Insert a new user
+EXEC Sp_User_Insert @UserName = 'Yasin Ghada', @MobileNo = '1234567890', @EmailID = 'YasinGhada@gmail.com';
+EXEC Sp_User_Insert @UserName = ' Jenisha Vasani', @MobileNo = '9897777458', @EmailID = 'Jenisha@gmail.com';
+
+-- Update an existing user
+EXEC Sp_User_Update @UserID = 1, @UserName = 'Dev', @MobileNo = '9876543210', @EmailID = 'dev@gmail.com';
+
+-- Delete a user by ID
+EXEC Sp_User_DeleteByID @UserID = 1;
+
 

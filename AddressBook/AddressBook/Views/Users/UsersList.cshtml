@@ -1,0 +1,63 @@
+﻿
+<main id="main" class="main">
+
+    <div class="pagetitle">
+        <h1>StateData Tables</h1>
+        <nav>
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Users</a></li>
+                <li class="breadcrumb-item">Tables</li>
+                <li class="breadcrumb-item active">Data</li>
+            </ol>
+        </nav>
+    </div><!-- End Page Title -->
+
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-12">
+
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Datatables</h5>
+                        <a class="btn btn-success float-end mb-2 mt-2" asp-area="" asp-controller="Users" asp-action="UsersForm">+Add Users</a>
+
+                        <!-- Table with stripped rows -->
+                        <table class="table datatable">
+                            <thead>
+                                <tr>
+                                    <th>UserID</th>
+                                    <th>UserName</th>
+                                    <th>MobileNo</th>
+                                    <th>EmailID</th>
+                                    <th>CreationDate</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <!-- Example of rows with user data -->
+                                <tr>
+                                    <td>1</td>
+                                    <td>Afsana</td>
+                                    <td>1234567890</td>
+                                    <td>Afsana@gmail.com</td>
+                                    <td>2025-01-23 10:00:00</td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>Jenisha</td>
+                                    <td>9876543210</td>
+                                    <td>Jenisha@gmail.com</td>
+                                    <td>2025-01-22 14:30:00</td>
+                                </tr>
+                                <!-- Additional rows will be added here dynamically from the database -->
+                            </tbody>
+                        </table>
+                        <!-- End Table with stripped rows -->
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+</main><!-- End #main -->

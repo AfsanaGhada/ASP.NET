@@ -2,10 +2,10 @@
 <main id="main" class="main">
 
     <div class="pagetitle">
-        <h1>StateData Tables</h1>
+        <h1>StateData</h1>
         <nav>
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="index.html">State</a></li>
+                <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">State</a></li>
                 <li class="breadcrumb-item">Tables</li>
                 <li class="breadcrumb-item active">Data</li>
             </ol>
@@ -18,43 +18,43 @@
 
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Datatables</h5>
-                        <p>Add lightweight datatables to your project with using the <a href="https://github.com/fiduswriter/Simple-DataTables" target="_blank">Simple DataTables</a> library. Just add <code>.datatable</code> class name to any table you wish to conver to a datatable. Check for <a href="https://fiduswriter.github.io/simple-datatables/demos/" target="_blank">more examples</a>.</p>
-                        <a class="btn btn-success float-end mb-2" asp-area="" asp-controller="State" asp-action="StateForm">Add State</a>
+                        <a class="btn btn-success float-end mb-2 mt-3" asp-area="" asp-controller="State" asp-action="StateForm">Add State</a>
 
                         <!-- Table with stripped rows -->
                         <table class="table datatable">
+                            <h2 class="mt-3"> Data Table</h2>
+
                                 <thead>
                                     <tr>
                                         <th>StateID</th>
-                                        <th>CountryID</th>
+                                        <th>Country Name</th>
                                         <th>State Name</th>
                                         <th>State Code</th>
-                                        <th>Creation Date</th>
+                                        @* <th>Creation Date</th> *@
                                     </tr>
                                 </thead>
                                 <tbody>
                                     <!-- Example Data Row -->
                                     <tr>
                                         <td>1</td>
-                                        <td>1</td>
+                                        <td>Gujrat</td>
                                         <td>California</td>
                                         <td>CA</td>
-                                        <td>2025-01-18 10:30:00</td>
+                                        @* <td>2025-01-18 10:30:00</td> *@
                                     </tr>
                                     <tr>
                                         <td>2</td>
-                                        <td>2</td>
+                                        <td>Bihar</td>
                                         <td>Texas</td>
                                         <td>TX</td>
-                                        <td>2025-01-18 10:32:00</td>
+                                        @* <td>2025-01-18 10:32:00</td> *@
                                     </tr>
                                     <tr>
                                         <td>3</td>
-                                        <td>3</td>
+                                        <td>Cali Fornia</td>
                                         <td>Florida</td>
                                         <td>FL</td>
-                                        <td>2025-01-18 10:35:00</td>
+                                        @* <td>2025-01-18 10:35:00</td> *@
                                     </tr>
                             </tbody>
                         </table>

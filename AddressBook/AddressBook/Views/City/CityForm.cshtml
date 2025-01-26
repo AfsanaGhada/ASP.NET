@@ -2,10 +2,10 @@
 <main id="main" class="main">
 
     <div class="pagetitle">
-        <h1>Form Layouts</h1>
+        <h1>City</h1>
         <nav>
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Home</a></li>
                 <li class="breadcrumb-item">Forms</li>
                 <li class="breadcrumb-item active">Layouts</li>
             </ol>
@@ -25,12 +25,24 @@
 
                                 <form action="#" method="POST">
                                     <div class="mb-3">
-                                        <label for="cityid" class="form-label">City ID</label>
-                                        <input type="text" class="form-control" id="cityid" name="cityid" required>
+                                        <label for="CountryName" class="form-label">Country Name</label>
+                                        <select class="form-control" id="CountryName" name="CountryName" required>
+                                            <option value="1">India</option>
+                                            <option value="2">US</option>
+                                            <option value="3">UK</option>
+
+                                        </select>
                                     </div>
                                     <div class="mb-3">
-                                        <label for="stateid" class="form-label">State ID</label>
-                                        <input type="text" class="form-control" id="stateid" name="stateid" required>
+                                        <label for="StateName" class="form-label">State Name</label>
+                                        <select class="form-control" id="StateName" name="StateName" required>
+                                            <option value="1">Gujrat</option>
+                                            <option value="2">Jammu Kasmir</option>
+                                            <option value="3">Texas</option>
+                                            <option value="4">Cali Fornia</option>
+
+
+                                        </select>
                                     </div>
                                     <div class="mb-3">
                                         <label for="cityname" class="form-label">City Name</label>
@@ -44,11 +56,13 @@
                                         <label for="pincode" class="form-label">Pin Code</label>
                                         <input type="text" class="form-control" id="pincode" name="pincode" required>
                                     </div>
-                                    <div class="mb-3">
-                                        <label for="creationdate" class="form-label">Creation Date</label>
-                                        <input type="date" class="form-control" id="creationdate" name="creationdate" required>
-                                    </div>
+                                    @* <div class="mb-3"> *@
+                                    @*     <label for="creationdate" class="form-label">Creation Date</label> *@
+                                    @*     <input type="date" class="form-control" id="creationdate" name="creationdate" required> *@
+                                    @* </div> *@
                                     <button type="submit" class="btn btn-primary">Submit</button>
+                                    <a class="btn btn-danger" asp-area="" asp-controller="City" asp-action="CityList">Cancle</a>
+
                                 </form>
                             </div>
 
