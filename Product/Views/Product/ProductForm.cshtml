@@ -3,18 +3,12 @@
 *@
 @{
 }
-<body class="bg-info">
+<body class="">
 
     <div class="container py-5">
 
         <div class="bg-white border border-dark rounded p-4 shadow-lg text-info bg-dark">
-            <div class="bg-primary text-center text-light p-4 ">
-                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="25" fill="currentColor" class=" bi-geo-alt"
-                     viewBox="0 0 16 16">
-                    <path d="M12.166 8.94c-.524 1.062-1.234 2.12-1.96 3.07A32 32 0 0 1 8 14.58a32 32 0 0 1-2.206-2.57c-.726-.95-1.436-2.008-1.96-3.07C3.304 7.867 3 6.862 3 6a5 5 0 0 1 10 0c0 .862-.305 1.867-.834 2.94M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10" />
-                    <path d="M8 8a2 2 0 1 1 0-4 2 2 0 0 1 0 4m0 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6" />
-                </svg>
-            </div>
+            
             <h1 class="text-center text-info font-weight-bold">Product Detail</h1>
 
             <div class="row mb-3">
@@ -55,32 +49,47 @@
                         <label for="Price" class="form-label text-dark">Price<span><span class="text-danger"> *</span>
                     </div>
                     <div class="col-md-8">
-                        <input type="text" class="form-control bg-light" id="Price">
+                        <input type="number" class="form-control bg-light" id="Price">
                     </div>
                 </div>
 
-                <div class="row mb-3">
-                    <div class="col-md-4">
-                    <label for="Catagory" class="form-label text-dark">Catagory</label><span class="text-danger"> *</span>
-                    </div>
-                    <div class="col-md-8">
-                    <div class="col-md-4">
-                        <select class="form-select bg-light">
-
-                            <option selected disabled>-Catagory-</option>
-
-                            <option value="Cloths">Cloths</option>
-                            <option value="Food">Food</option>
-                            <option value="Electronic">Electronic</option>
-                            <option value="Make up">Make Up</option>
-                        </select>
-
-                    </div>
-                    </div>
-                </div>
             <div class="row mb-3">
                 <div class="col-md-4">
-                    <label for="Stock_Qquntity" class="form-label text-dark">Stock_Qquntity</label><span class="text-danger"> *</span>
+                    <label for="Catagory" class="form-label text-dark">Catagory</label><span class="text-danger"> *</span>
+                </div>
+                <div class="col-md-8">
+                    <div class="col-md-4">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="cloths" value="Cloths">
+                            <label class="form-check-label" for="cloths">Cloths</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="food" value="Food">
+                            <label class="form-check-label" for="food">Food</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="electronic" value="Electronic">
+                            <label class="form-check-label" for="electronic">Electronic</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="makeup" value="Make Up">
+                            <label class="form-check-label" for="makeup">Make Up</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <div class="col-md-4">
+                    <label for="rating" class="form-label text-dark">Rating</label><span class="text-danger"> *</span>
+                </div>
+                <div class="col-md-8">
+                    <input type="number" class="form-control bg-light" id="rating" min="1" max="5" placeholder="Enter a number between 1 and 5">
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col-md-4">
+                    <label for="Stock_Qquntity" class="form-label text-dark">Company Name</label><span class="text-danger"> *</span>
                 </div>
                 <div class="col-md-8">
                     <input type="text" class="form-control bg-light" id="Stock_Qquntity">

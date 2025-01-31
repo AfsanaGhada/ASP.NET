@@ -44,6 +44,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/SEMESTER_4/ASP.NET/PRACTICAL/AddressBook/AddressBook/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/SEMESTER_4/ASP.NET/PRACTICAL/AddressBook/AddressBook/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -79,3 +83,7 @@ build_metadata.AdditionalFiles.CssScope =
 [D:/SEMESTER_4/ASP.NET/PRACTICAL/AddressBook/AddressBook/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-nau3wh5r6d
+
+[D:/SEMESTER_4/ASP.NET/PRACTICAL/AddressBook/AddressBook/Views/Shared/_ProductLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-iz0oxao7xn

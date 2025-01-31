@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/AddressBook/AddressBook.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AddressBook.qx113x9x62.bundle.scp.css'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/AddressBook/AddressBook.8lrrdyvofs.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AddressBook.8lrrdyvofs.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Dpe4iv7nU7ZwGdK\u002BHtK4fmw5GUb36hqWR\u002B0QMQX7uaU="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1129"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Dpe4iv7nU7ZwGdK\u002BHtK4fmw5GUb36hqWR\u002B0QMQX7uaU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 18 Jan 2025 13:52:17 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8lrrdyvofs"},{"Name":"integrity","Value":"sha256-bKkCzYKkEFYWUPk90mFnJZ6QCfM/C4aJo7tCRESH5Hg="},{"Name":"label","Value":"_content/AddressBook/AddressBook.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2265"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022bKkCzYKkEFYWUPk90mFnJZ6QCfM/C4aJo7tCRESH5Hg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Jan 2025 12:37:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/AddressBook/AddressBook.qx113x9x62.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AddressBook.qx113x9x62.bundle.scp.css'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/AddressBook/AddressBook.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AddressBook.8lrrdyvofs.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qx113x9x62"},{"Name":"integrity","Value":"sha256-Dpe4iv7nU7ZwGdK\u002BHtK4fmw5GUb36hqWR\u002B0QMQX7uaU="},{"Name":"label","Value":"_content/AddressBook/AddressBook.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1129"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Dpe4iv7nU7ZwGdK\u002BHtK4fmw5GUb36hqWR\u002B0QMQX7uaU=\u0022"},{"Name":"Last-Modified","Value":"Sat, 18 Jan 2025 13:52:17 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bKkCzYKkEFYWUPk90mFnJZ6QCfM/C4aJo7tCRESH5Hg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2265"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022bKkCzYKkEFYWUPk90mFnJZ6QCfM/C4aJo7tCRESH5Hg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Jan 2025 12:37:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/AddressBook/assets/css/style.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\style.css'))</AssetFile>

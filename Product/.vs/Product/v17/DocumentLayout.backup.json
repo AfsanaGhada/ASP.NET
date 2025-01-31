@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Product\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D20579E-78BA-4D4C-98A2-17A2F0C45EBD}|Product.csproj|d:\\semester_4\\asp.net\\practical\\product\\views\\product\\productform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D20579E-78BA-4D4C-98A2-17A2F0C45EBD}|Product.csproj|solutionrelative:views\\product\\productform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D20579E-78BA-4D4C-98A2-17A2F0C45EBD}|Product.csproj|d:\\semester_4\\asp.net\\practical\\product\\views\\product\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7D20579E-78BA-4D4C-98A2-17A2F0C45EBD}|Product.csproj|solutionrelative:views\\product\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D20579E-78BA-4D4C-98A2-17A2F0C45EBD}|Product.csproj|d:\\semester_4\\asp.net\\practical\\product\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D20579E-78BA-4D4C-98A2-17A2F0C45EBD}|Product.csproj|solutionrelative:views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D20579E-78BA-4D4C-98A2-17A2F0C45EBD}|Product.csproj|d:\\semester_4\\asp.net\\practical\\product\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D20579E-78BA-4D4C-98A2-17A2F0C45EBD}|Product.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D20579E-78BA-4D4C-98A2-17A2F0C45EBD}|Product.csproj|d:\\semester_4\\asp.net\\practical\\product\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D20579E-78BA-4D4C-98A2-17A2F0C45EBD}|Product.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D20579E-78BA-4D4C-98A2-17A2F0C45EBD}|Product.csproj|d:\\semester_4\\asp.net\\practical\\product\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -17,18 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7D20579E-78BA-4D4C-98A2-17A2F0C45EBD}|Product.csproj|d:\\semester_4\\asp.net\\practical\\product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D20579E-78BA-4D4C-98A2-17A2F0C45EBD}|Product.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D20579E-78BA-4D4C-98A2-17A2F0C45EBD}|Product.csproj|d:\\semester_4\\asp.net\\practical\\product\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D20579E-78BA-4D4C-98A2-17A2F0C45EBD}|Product.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D20579E-78BA-4D4C-98A2-17A2F0C45EBD}|Product.csproj|d:\\semester_4\\asp.net\\practical\\product\\views\\product\\productform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7D20579E-78BA-4D4C-98A2-17A2F0C45EBD}|Product.csproj|solutionrelative:views\\product\\productform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D20579E-78BA-4D4C-98A2-17A2F0C45EBD}|Product.csproj|d:\\semester_4\\asp.net\\practical\\product\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7D20579E-78BA-4D4C-98A2-17A2F0C45EBD}|Product.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D20579E-78BA-4D4C-98A2-17A2F0C45EBD}|Product.csproj|d:\\semester_4\\asp.net\\practical\\product\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,24 +57,21 @@
               "Name": "ST:1958091293:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Product\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Product\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-08T17:55:24.135Z"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Product\\Views\\Product\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\ProductList.cshtml",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Product\\Views\\Product\\ProductList.cshtml",
+              "RelativeToolTip": "Views\\Product\\ProductList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T03:47:00.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Product\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -82,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Product\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -100,50 +101,65 @@
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Product\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAABgZmZmZmYwwA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T02:59:40.115Z"
+              "WhenOpened": "2025-01-04T02:59:40.115Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Product.cshtml",
               "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Product\\Views\\Product\\Product.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Product.cshtml",
               "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Product\\Views\\Product\\Product.cshtml",
               "RelativeToolTip": "Views\\Product\\Product.cshtml",
-              "ViewState": "AgIAACMAAAAAAAAAAAAiwD0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-04T03:00:43.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ProductForm.cshtml",
               "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Product\\Views\\Product\\ProductForm.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\ProductForm.cshtml",
-              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Product\\Views\\Product\\ProductForm.cshtml",
-              "RelativeToolTip": "Views\\Product\\ProductForm.cshtml",
-              "ViewState": "AgIAAHIAAAAAAAAAAADwv4EAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Product\\Views\\Product\\ProductForm.cshtml*",
+              "RelativeToolTip": "Views\\Product\\ProductForm.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-04T03:01:08.611Z"
+              "WhenOpened": "2025-01-04T03:01:08.611Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Product\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Product\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABUAAAAAMDMzMzMLwCMAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-04T03:03:34.289Z"
+              "WhenOpened": "2025-01-04T03:03:34.289Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Product\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Product\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-08T17:55:24.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Product\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -155,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Product\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -164,6 +180,10 @@
               "ViewState": "AgIAAAMAAAAwMTMzMzMbwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T17:53:28.33Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

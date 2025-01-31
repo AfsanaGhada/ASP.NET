@@ -4,6 +4,10 @@ namespace AddressBook.Controllers
 {
     public class CityController : Controller
     {
+        public IActionResult Index()
+        {
+            return View();
+        }
         public IActionResult CityForm()
         {
             return View();

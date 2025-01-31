@@ -3,12 +3,60 @@
   "WorkspaceRootPath": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\views\\state\\statelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\views\\state\\statelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\views\\city\\cityform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\views\\city\\cityform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\views\\shared\\_productlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\views\\shared\\_productlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\views\\city\\citylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\views\\city\\citylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\views\\state\\statelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\views\\state\\statelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\views\\country\\countrylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,40 +71,12 @@
       "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\views\\state\\stateform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\views\\city\\cityform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\views\\city\\cityform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\views\\users\\usersform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\views\\users\\usersform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\views\\users\\userslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\views\\users\\userslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|solutionrelative:addressbook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5AB5D52-35D6-496E-819F-59948922B90B}|AddressBook\\AddressBook.csproj|d:\\semester_4\\asp.net\\practical\\addressbook\\addressbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,169 +106,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CityList.cshtml",
-              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\City\\CityList.cshtml",
-              "RelativeDocumentMoniker": "AddressBook\\Views\\City\\CityList.cshtml",
-              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\City\\CityList.cshtml",
-              "RelativeToolTip": "AddressBook\\Views\\City\\CityList.cshtml",
-              "ViewState": "AgIAAAYAAACAMTMzMzMLwBQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T03:19:12.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StateList.cshtml",
-              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\State\\StateList.cshtml",
-              "RelativeDocumentMoniker": "AddressBook\\Views\\State\\StateList.cshtml",
-              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\State\\StateList.cshtml",
-              "RelativeToolTip": "AddressBook\\Views\\State\\StateList.cshtml",
-              "ViewState": "AgIAAAMAAACAMjMzMzMLwBoAAAAnAAAAAAAAAA==",
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AddressBook\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AddressBook\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T03:22:06.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StateForm.cshtml",
-              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\State\\StateForm.cshtml",
-              "RelativeDocumentMoniker": "AddressBook\\Views\\State\\StateForm.cshtml",
-              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\State\\StateForm.cshtml",
-              "RelativeToolTip": "AddressBook\\Views\\State\\StateForm.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAwPQMAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T03:21:31.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AddressBook\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AddressBook\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQBAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T02:37:28.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CityForm.cshtml",
-              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\City\\CityForm.cshtml",
-              "RelativeDocumentMoniker": "AddressBook\\Views\\City\\CityForm.cshtml",
-              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\City\\CityForm.cshtml",
-              "RelativeToolTip": "AddressBook\\Views\\City\\CityForm.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T03:18:27.639Z",
+              "WhenOpened": "2025-01-31T07:02:42.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CountryForm.cshtml",
-              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Country\\CountryForm.cshtml",
-              "RelativeDocumentMoniker": "AddressBook\\Views\\Country\\CountryForm.cshtml",
-              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Country\\CountryForm.cshtml",
-              "RelativeToolTip": "AddressBook\\Views\\Country\\CountryForm.cshtml",
-              "ViewState": "AgIAABYAAAAALzMzMzMbwAMAAAATAAAAAAAAAA==",
+              "Title": "_ProductLayout.cshtml",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Shared\\_ProductLayout.cshtml",
+              "RelativeDocumentMoniker": "AddressBook\\Views\\Shared\\_ProductLayout.cshtml",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Shared\\_ProductLayout.cshtml",
+              "RelativeToolTip": "AddressBook\\Views\\Shared\\_ProductLayout.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAACgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T03:20:04.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T12:37:08.623Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CountryList.cshtml",
-              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Country\\CountryList.cshtml",
-              "RelativeDocumentMoniker": "AddressBook\\Views\\Country\\CountryList.cshtml",
-              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Country\\CountryList.cshtml",
-              "RelativeToolTip": "AddressBook\\Views\\Country\\CountryList.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAABQPRYAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "AddressBook\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "AddressBook\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T03:20:42.072Z",
+              "WhenOpened": "2025-01-29T03:52:41.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "AddressBook\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "AddressBook\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "AddressBook\\Models\\ProductModel.cs",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Models\\ProductModel.cs",
+              "RelativeToolTip": "AddressBook\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T15:55:29.382Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsersForm.cshtml",
-              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Users\\UsersForm.cshtml",
-              "RelativeDocumentMoniker": "AddressBook\\Views\\Users\\UsersForm.cshtml",
-              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Users\\UsersForm.cshtml",
-              "RelativeToolTip": "AddressBook\\Views\\Users\\UsersForm.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T15:56:54.728Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UsersList.cshtml",
-              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Users\\UsersList.cshtml",
-              "RelativeDocumentMoniker": "AddressBook\\Views\\Users\\UsersList.cshtml",
-              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Users\\UsersList.cshtml",
-              "RelativeToolTip": "AddressBook\\Views\\Users\\UsersList.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T15:58:12.801Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "AddressBook\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "AddressBook\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAIAAABoZmZmZiYwwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T02:46:18.629Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CityController.cs",
-              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Controllers\\CityController.cs",
-              "RelativeDocumentMoniker": "AddressBook\\Controllers\\CityController.cs",
-              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Controllers\\CityController.cs",
-              "RelativeToolTip": "AddressBook\\Controllers\\CityController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T03:17:09.026Z"
+              "WhenOpened": "2025-01-29T03:37:32.857Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "StateController.cs",
-              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Controllers\\StateController.cs",
-              "RelativeDocumentMoniker": "AddressBook\\Controllers\\StateController.cs",
-              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Controllers\\StateController.cs",
-              "RelativeToolTip": "AddressBook\\Controllers\\StateController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T03:17:43.362Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AddressBook\\Controllers\\HomeController.cs",
@@ -260,7 +168,176 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AddressBook\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AddressBook\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T02:37:28.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StateController.cs",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Controllers\\StateController.cs",
+              "RelativeDocumentMoniker": "AddressBook\\Controllers\\StateController.cs",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Controllers\\StateController.cs",
+              "RelativeToolTip": "AddressBook\\Controllers\\StateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:17:43.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityForm.cshtml",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\City\\CityForm.cshtml",
+              "RelativeDocumentMoniker": "AddressBook\\Views\\City\\CityForm.cshtml",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\City\\CityForm.cshtml",
+              "RelativeToolTip": "AddressBook\\Views\\City\\CityForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T03:18:27.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AddressBook\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AddressBook\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T02:46:18.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StateList.cshtml",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\State\\StateList.cshtml",
+              "RelativeDocumentMoniker": "AddressBook\\Views\\State\\StateList.cshtml",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\State\\StateList.cshtml",
+              "RelativeToolTip": "AddressBook\\Views\\State\\StateList.cshtml",
+              "ViewState": "AgIAAAoAAACAMjMzM/MmwCAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T03:22:06.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "AddressBook\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "AddressBook\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T03:51:05.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CityList.cshtml",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\City\\CityList.cshtml",
+              "RelativeDocumentMoniker": "AddressBook\\Views\\City\\CityList.cshtml",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\City\\CityList.cshtml",
+              "RelativeToolTip": "AddressBook\\Views\\City\\CityList.cshtml",
+              "ViewState": "AgIAAAYAAACAMTMzMzMLwBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T03:19:12.569Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "CountryList.cshtml",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Country\\CountryList.cshtml",
+              "RelativeDocumentMoniker": "AddressBook\\Views\\Country\\CountryList.cshtml",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Country\\CountryList.cshtml",
+              "RelativeToolTip": "AddressBook\\Views\\Country\\CountryList.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAABQPRYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T03:20:42.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CountryForm.cshtml",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Country\\CountryForm.cshtml",
+              "RelativeDocumentMoniker": "AddressBook\\Views\\Country\\CountryForm.cshtml",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Country\\CountryForm.cshtml",
+              "RelativeToolTip": "AddressBook\\Views\\Country\\CountryForm.cshtml",
+              "ViewState": "AgIAABYAAAAALzMzMzMbwAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T03:20:04.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "AddressBook\\Controllers\\CityController.cs",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Controllers\\CityController.cs",
+              "RelativeToolTip": "AddressBook\\Controllers\\CityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:17:09.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StateForm.cshtml",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\State\\StateForm.cshtml",
+              "RelativeDocumentMoniker": "AddressBook\\Views\\State\\StateForm.cshtml",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\State\\StateForm.cshtml",
+              "RelativeToolTip": "AddressBook\\Views\\State\\StateForm.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwPQMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T03:21:31.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "AddressBook\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "AddressBook\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:55:29.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsersForm.cshtml",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Users\\UsersForm.cshtml",
+              "RelativeDocumentMoniker": "AddressBook\\Views\\Users\\UsersForm.cshtml",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Users\\UsersForm.cshtml",
+              "RelativeToolTip": "AddressBook\\Views\\Users\\UsersForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T15:56:54.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsersList.cshtml",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Users\\UsersList.cshtml",
+              "RelativeDocumentMoniker": "AddressBook\\Views\\Users\\UsersList.cshtml",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Views\\Users\\UsersList.cshtml",
+              "RelativeToolTip": "AddressBook\\Views\\Users\\UsersList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T15:58:12.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Program.cs",
               "RelativeDocumentMoniker": "AddressBook\\Program.cs",
@@ -272,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "AddressBook\\Properties\\launchSettings.json",
@@ -284,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "CountryController.cs",
               "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\AddressBook\\AddressBook\\Controllers\\CountryController.cs",
               "RelativeDocumentMoniker": "AddressBook\\Controllers\\CountryController.cs",
