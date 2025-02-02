@@ -1,4 +1,5 @@
-﻿
+﻿@model AddressBook.Models.CityModel
+
 <main id="main" class="main">
 
     <div class="pagetitle">
@@ -21,21 +22,26 @@
                         <!-- Horizontal Form -->
                         <body>
                             <div class="container mt-5">
-                                <h2 class="mb-4">City Information Form</h2>
+                                <h2 class="mb-4">Add/Edit City</h2>
 
                                 <form action="#" method="POST">
                                     <div class="mb-3">
                                         <label for="CountryName" class="form-label">Country Name</label>
-                                        <select class="form-control" id="CountryName" name="CountryName" required>
+                                        <select asp-for="CountryID" class="form-control" >
+                                            <option value="">select country</option>
+
                                             <option value="1">India</option>
                                             <option value="2">US</option>
                                             <option value="3">UK</option>
 
                                         </select>
+                                        <span asp-validation-for="CountryID" class="form-text text-muted"></span>
                                     </div>
                                     <div class="mb-3">
                                         <label for="StateName" class="form-label">State Name</label>
-                                        <select class="form-control" id="StateName" name="StateName" required>
+                                        <select asp-for="StateID" class="form-control" >
+                                            <option value="">select state</option>
+
                                             <option value="1">Gujrat</option>
                                             <option value="2">Jammu Kasmir</option>
                                             <option value="3">Texas</option>
@@ -43,18 +49,27 @@
 
 
                                         </select>
+                                        <span asp-validation-for="StateID" class="form-text text-muted"></span>
+
                                     </div>
                                     <div class="mb-3">
                                         <label for="cityname" class="form-label">City Name</label>
-                                        <input type="text" class="form-control" id="cityname" name="cityname" required>
+                                        <input asp-for="CityName" type="text" class="form-control">
+                                        <span asp-validation-for="CityName" class="form-text text-muted"></span>
+
                                     </div>
                                     <div class="mb-3">
                                         <label for="stdcode" class="form-label">STD Code</label>
-                                        <input type="text" class="form-control" id="stdcode" name="stdcode" required>
+                                        <input asp-for="STDCode"  type="text" class="form-control">
+                                        <span asp-validation-for="STDCode" class="form-text text-muted"></span>
+
                                     </div>
                                     <div class="mb-3">
                                         <label for="pincode" class="form-label">Pin Code</label>
-                                        <input type="text" class="form-control" id="pincode" name="pincode" required>
+                                        <input asp-for="PinCode" type="text" class="form-control">
+                                        <span asp-validation-for="PinCode" class="form-text text-muted"></span>
+
+
                                     </div>
                                     @* <div class="mb-3"> *@
                                     @*     <label for="creationdate" class="form-label">Creation Date</label> *@
@@ -72,3 +87,14 @@
 
                     </div>
                 </div>
+                </div>
+                </div>
+                </section>
+                </main>
+
+@section Scripts {
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+
+}

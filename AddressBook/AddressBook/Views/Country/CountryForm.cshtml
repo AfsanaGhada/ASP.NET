@@ -1,10 +1,11 @@
-﻿<main id="main" class="main">
+﻿@model AddressBook.Models.CountryModel
 
+<main id="main" class="main">
     <div class="pagetitle">
         <h1>Country</h1>
         <nav>
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="index.html">Country</a></li>
+                <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Country</a></li>
                 <li class="breadcrumb-item">Forms</li>
                 <li class="breadcrumb-item active">Layouts</li>
             </ol>
@@ -18,21 +19,24 @@
                     <div class="card-body">
 
                         <!-- Horizontal Form -->
-                            <body>
                                 <div class="container mt-5">
-                                    <h2 class="mb-4">Country Information Form</h2>
-                                    <form action="#" method="POST">
+                                    <h2 class="mb-4">Add/Edit Country </h2>
+                                    <form>
                                         @* <div class="mb-3"> *@
                                         @*     <label for="countryid" class="form-label">Country ID</label> *@
                                         @*     <input type="text" class="form-control" id="countryid" name="countryid" required> *@
                                         @* </div> *@
                                         <div class="mb-3">
                                             <label for="countryname" class="form-label">Country Name</label>
-                                            <input type="text" class="form-control" id="countryname" name="countryname" required>
+                                            <input asp-for="CountryName" type="text" class="form-control">
+                                    <span asp-validation-for="CountryName" class="form-text text-muted"></span>
                                         </div>
                                         <div class="mb-3">
                                             <label for="countrycode" class="form-label">Country Code</label>
-                                            <input type="text" class="form-control" id="countrycode" name="countrycode" required>
+                                            
+                                            <input asp-for="CountryCode" type="text" class="form-control">
+                                    <span asp-validation-for="CountryCode" class="form-text text-muted"></span>
+
                                         </div>
                                         @* <div class="mb-3"> *@
                                         @*     <label for="creationdate" class="form-label">Creation Date</label> *@
@@ -45,8 +49,20 @@
                                 </div>
 
                                
-                            </body>
                         <!-- End Horizontal Form -->
 
                     </div>
                 </div>
+                </div>
+                </div>
+                </section>
+                </main>
+
+@section Scripts {
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+
+                }
+
+                                        
