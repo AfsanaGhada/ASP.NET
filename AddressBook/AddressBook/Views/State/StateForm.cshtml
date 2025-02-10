@@ -25,7 +25,7 @@
                             <form action="#" method="POST">
                                 <!-- CountryID -->
                                 <div class="mb-3">
-                                    <label for="CountryName" class="form-label">Country Name</label>
+                                    <label for="CountryName" class="form-label"><span style="color: red;">*</span>Country Name</label>
                                     <select asp-for="CountryID" class="form-control">
                                         <option value="">select country</option>
                                         <option value="1">India</option>
@@ -38,15 +38,15 @@
 
                                 <!-- StateName -->
                                 <div class="mb-3">
-                                    <label for="statename" class="form-label">State Name</label>
-                                    <input asp-for="StateName" type="text" class="form-control"  >
+                                    <label for="statename" class="form-label"><span style="color: red;">*</span>State Name</label>
+                                    <input asp-for="StateName" type="text" class="form-control">
                                     <span asp-validation-for="StateName" class="form-text text-muted"></span>
 
                                 </div>
 
                                 <!-- StateCode -->
                                 <div class="mb-3">
-                                    <label for="statecode" class="form-label">State Code</label>
+                                    <label for="statecode" class="form-label"><span style="color: red;">*</span>State Code</label>
                                     <input asp-for="StateCode" type="text" class="form-control" >
                                     <span asp-validation-for="StateCode" class="form-text text-muted"></span>
 \                                </div>
@@ -58,7 +58,8 @@
                                 @* </div> *@
 
                                 <!-- Submit Button -->
-                                <button type="submit" class="btn btn-primary">Submit</button>
+                                <button type="submit" class="btn btn-success">Submit</button>
+                                <a class="btn btn-danger" asp-area="" asp-controller="State" asp-action="StateList">Cancel</a>
                             </form>
                         </div>
                     </div>

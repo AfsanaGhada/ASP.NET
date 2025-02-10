@@ -26,30 +26,30 @@
                                 <form action="#" method="POST">
                                     
                                     <div class="mb-3">
-                                        <label for="username" class="form-label">User Name</label>
-                                        <input asp-for="UserName" type="text" class="form-control">
+                                        <label for="username" class="form-label"><span style="color: red;">*</span> User Name</label>
+                                        <input asp-for="UserName" type="text" class="form-control" placeholder="Enter User Name">
                                         <span asp-validation-for="UserName" class="form-text text-muted"></span>
                                     </div>
                                     <div class="mb-3">
-                                        <label for="password" class="form-label">Password</label>
-                                        <input asp-for="Password" type="password" class="form-control">
+                                        <label for="password" class="form-label"><span style="color: red;">*</span> Password</label>
+                                        <input asp-for="Password" type="password" class="form-control" placeholder="Enter Password">
                                         <span asp-validation-for="Password" class="form-text text-muted"></span>
 
                                     </div>
                                     <div class="mb-3">
-                                        <label for="email" class="form-label">Email</label>
-                                        <input asp-for="Email" type="email" class="form-control" >
+                                        <label for="email" class="form-label"><span style="color: red;">*</span> Email</label>
+                                        <input asp-for="Email" type="email" class="form-control" placeholder="Enter Email">
                                         <span asp-validation-for="Email" class="form-text text-muted"></span>
 
                                     </div>
                                     <div class="mb-3">
-                                        <label for="mobile" class="form-label">Mobile</label>
-                                        <input asp-for="Mobile" type="tel" class="form-control" >
+                                        <label for="mobile" class="form-label"><span style="color: red;">*</span> Mobile</label>
+                                        <input asp-for="Mobile" type="tel" class="form-control" placeholder="Enter Mobile">
                                         <span asp-validation-for="Mobile" class="form-text text-muted"></span>
 
                                     </div>
                                     <div class="mb-3">
-                                        <label for="isactive" class="form-label">Is Active</label>
+                                        <label for="isactive" class="form-label"><span style="color: red;">*</span> Is Active</label>
                                         <select asp-for="IsActive" class="form-control">
                                             <option value="">-Select-</option>
 
@@ -59,7 +59,7 @@
                                         <span asp-validation-for="IsActive" class="form-text text-muted"></span>
                                     </div>
                                     <div class="mb-3">
-                                        <label for="isadmin" class="form-label">Is Admin</label>
+                                        <label for="isadmin" class="form-label"><span style="color: red;">*</span> Is Admin</label>
                                         <select asp-for="IsAdmin" class="form-control">
                                             <option value="">-Select-</option>
 
@@ -69,7 +69,7 @@
                                         <span asp-validation-for="IsAdmin" class="form-text text-muted"></span>
                                     </div>
                                     
-                                    <button type="submit" class="btn btn-primary">Submit</button>
+                                    <button type="submit" class="btn btn-success">Submit</button>
                                     <a class="btn btn-danger" asp-area="" asp-controller="MST_User" asp-action="UserList">Cancle</a>
 
 

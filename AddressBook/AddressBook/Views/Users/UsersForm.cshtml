@@ -30,21 +30,21 @@
                             <form action="#" method="POST">
                                 <!-- UserName -->
                                 <div class="mb-3">
-                                    <label for="username" class="form-label">User Name</label>
+                                    <label for="username" class="form-label"><span style="color: red;">*</span> User Name</label>
                                     <input asp-for="UserName" type="text" class="form-control" >
                                     <span asp-validation-for="UserName" class="form-text text-muted"></span>
                                 </div>
 
                                 <!-- MobileNo -->
                                 <div class="mb-3">
-                                    <label for="mobileno" class="form-label">Mobile No</label>
+                                    <label for="mobileno" class="form-label"><span style="color: red;">*</span> Mobile No</label>
                                     <input asp-for="MobileNo" type="text" class="form-control">
                                     <span asp-validation-for="MobileNo" class="form-text text-muted" ></span>
                                 </div>
 
                                 <!-- EmailID -->
                                 <div class="mb-3">
-                                    <label for="emailid" class="form-label">Email ID</label>
+                                    <label for="emailid" class="form-label"><span style="color: red;">*</span> Email ID</label>
                                     <input asp-for="EmailID" type="email" class="form-control"  >
                                     <span asp-validation-for="EmailID" class="form-text text-muted"></span>
                                 </div>
@@ -57,7 +57,8 @@
                                 @* </div> *@
 
                                 <!-- Submit Button -->
-                                <button type="submit" class="btn btn-primary">Submit</button>
+                                <button type="submit" class="btn btn-success">Submit</button>
+                                <a class="btn btn-danger" asp-area="" asp-controller="State" asp-action="StateList">Cancle</a>
                             </form>
                         </div>
                         </div>

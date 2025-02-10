@@ -27,12 +27,12 @@
                                         @*     <input type="text" class="form-control" id="countryid" name="countryid" required> *@
                                         @* </div> *@
                                         <div class="mb-3">
-                                            <label for="countryname" class="form-label">Country Name</label>
+                                    <label for="countryname" class="form-label"><span style="color: red;">*</span> Country Name</label>
                                             <input asp-for="CountryName" type="text" class="form-control">
                                     <span asp-validation-for="CountryName" class="form-text text-muted"></span>
                                         </div>
                                         <div class="mb-3">
-                                            <label for="countrycode" class="form-label">Country Code</label>
+                                    <label for="countrycode" class="form-label"><span style="color: red;">*</span> Country Code</label>
                                             
                                             <input asp-for="CountryCode" type="text" class="form-control">
                                     <span asp-validation-for="CountryCode" class="form-text text-muted"></span>
@@ -42,8 +42,8 @@
                                         @*     <label for="creationdate" class="form-label">Creation Date</label> *@
                                         @*     <input type="date" class="form-control" id="creationdate" name="creationdate" required> *@
                                         @* </div> *@
-                                        <button type="submit" class="btn btn-primary">Submit</button>
-                                    <a class="btn btn-danger" asp-area="" asp-controller="Country" asp-action="CountryList">Cancle</a>
+                                        <button type="submit" class="btn btn-success">Submit</button>
+                                    <a class="btn btn-danger" asp-area="" asp-controller="Country" asp-action="CountryList">Cancel</a>
 
                                     </form>
                                 </div>

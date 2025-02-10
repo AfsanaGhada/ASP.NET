@@ -10,8 +10,6 @@
             </ol>
         </nav>
     </div><!-- End Page Title -->
-   
-
     <section class="section">
         <div class="row">
             <div class="col-lg-12">
@@ -23,23 +21,44 @@
 
                             <form class="row g-3">
                                 <div class="col-md-4">
-                                    <input type="text" class="form-control  border border-black" placeholder="Quiz id">
+                                    <label for="userName" class="form-label">Quiz Name</label>
+
+                                    <input type="text" class="form-control  border border-black">
                                 </div>
                                 <div class="col-md-4">
-                                    <input type="text" class="form-control  border border-black" placeholder="Quiz Name">
+                                    <label for="userName" class="form-label">Min Question</label>
+
+                                    <input type="text" class="form-control  border border-black" >
                                 </div>
                                 <div class="col-md-4">
-                                    <input type="number" class="form-control  border border-black" placeholder="Total Questuion">
+                                    <label for="userName" class="form-label">Max Question</label>
+
+                                    <input type="text" class="form-control  border border-black">
+                                </div>
+                                <div class="col-md-4">
+                                    <label for="quizdate" class="form-label">Quiz Date</label>
+                                    <input type="date" class="form-control" id="quizdate" name="quizdate">
                                 </div>
                                 <div class="text-start">
-                                    <button type="submit" class="btn btn-primary">Search</button>
-                                    <button type="reset" class="btn btn-secondary">Reset</button>
+                                    <button type="submit" class="btn btn-success">Search</button>
+                                    <button type="reset" class="btn btn-danger">Reset</button>
                                 </div>
                             </form><!-- End No Labels Form -->
                         </div>
+                    </div>
+                </div>
+            </div>
+    </section>
+<br />
 
-                        <br />
 
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-12">
+
+                <div class="card">
+                    <div class="card-body">
+                       
                         <h5 class="card-title">Quiz List</h5>
                         <div class="d-flex p-3 justify-content-end">
                             <a asp-action="QuizForm" asp-controller="MST_Quiz" class="btn btn-primary w-20">
@@ -52,7 +71,7 @@
 
                                         <thead>
                                             <tr>
-                                                <th>Quiz ID</th>
+                                                @* <th>Quiz ID</th> *@
                                                 <th>Quiz Name</th>
                                                 <th>Total Questions</th>
                                                 <th>Quiz Date</th>
@@ -65,7 +84,7 @@
                                         <tbody>
                                             <!-- Example Row 1 -->
                                             <tr>
-                                                <td>1</td>
+                                                @* <td>1</td> *@
                                                 <td>Math Quiz</td>
                                                 <td>20</td>
                                                 <td>2025-02-10</td>
@@ -79,7 +98,7 @@
                                             </tr>
                                             <!-- Example Row 2 -->
                                             <tr>
-                                                <td>2</td>
+                                                @* <td>2</td> *@
                                                 <td>Science Quiz</td>
                                                 <td>25</td>
                                                 <td>2025-02-15</td>
@@ -93,7 +112,7 @@
                                             </tr>
                                             <!-- Example Row 3 -->
                                             <tr>
-                                                <td>3</td>
+                                                @* <td>3</td> *@
                                                 <td>History Quiz</td>
                                                 <td>15</td>
                                                 <td>2025-03-01</td>
@@ -107,7 +126,7 @@
                                             </tr>
                                             <!-- Example Row 4 -->
                                             <tr>
-                                                <td>4</td>
+                                                @* <td>4</td> *@
                                                 <td>Geography Quiz</td>
                                                 <td>30</td>
                                                 <td>2025-03-10</td>
@@ -121,7 +140,7 @@
                                             </tr>
                                             <!-- Example Row 5 -->
                                             <tr>
-                                                <td>5</td>
+                                                @* <td>5</td> *@
                                                 <td>Literature Quiz</td>
                                                 <td>18</td>
                                                 <td>2025-03-15</td>
@@ -137,7 +156,8 @@
                                   
                                 </div>
 
-                    </table>
+                         </table>
+                    
                         <!-- End Table with stripped rows -->
 
                     </div>

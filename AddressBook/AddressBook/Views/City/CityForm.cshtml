@@ -6,12 +6,17 @@
         <h1>City</h1>
         <nav>
             <ol class="breadcrumb">
+                @* <p>Home</p> *@
+                @* @Html.ActionLink("simple link to a 'home' controller 'index' action","Index","Home") *@
+                @* @Html.ActionLink("Link to index action","Index") *@
                 <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Home</a></li>
                 <li class="breadcrumb-item">Forms</li>
                 <li class="breadcrumb-item active">Layouts</li>
+                
             </ol>
         </nav>
     </div><!-- End Page Title -->
+
     <section class="section">
         <div class="row">
             <div class="col-lg-100">
@@ -26,7 +31,7 @@
 
                                 <form action="#" method="POST">
                                     <div class="mb-3">
-                                        <label for="CountryName" class="form-label">Country Name</label>
+                                        <label for="CountryName" class="form-label"><span style="color: red;">*</span>Country Name</label>
                                         <select asp-for="CountryID" class="form-control" >
                                             <option value="">select country</option>
 
@@ -38,7 +43,7 @@
                                         <span asp-validation-for="CountryID" class="form-text text-muted"></span>
                                     </div>
                                     <div class="mb-3">
-                                        <label for="StateName" class="form-label">State Name</label>
+                                        <label for="StateName" class="form-label"><span style="color: red;">*</span>State Name</label>
                                         <select asp-for="StateID" class="form-control" >
                                             <option value="">select state</option>
 
@@ -53,19 +58,19 @@
 
                                     </div>
                                     <div class="mb-3">
-                                        <label for="cityname" class="form-label">City Name</label>
+                                        <label for="cityname" class="form-label"><span style="color: red;">*</span>City Name</label>
                                         <input asp-for="CityName" type="text" class="form-control">
                                         <span asp-validation-for="CityName" class="form-text text-muted"></span>
 
                                     </div>
                                     <div class="mb-3">
-                                        <label for="stdcode" class="form-label">STD Code</label>
+                                        <label for="stdcode" class="form-label"><span style="color: red;">*</span>STD Code</label>
                                         <input asp-for="STDCode"  type="text" class="form-control">
                                         <span asp-validation-for="STDCode" class="form-text text-muted"></span>
 
                                     </div>
                                     <div class="mb-3">
-                                        <label for="pincode" class="form-label">Pin Code</label>
+                                        <label for="pincode" class="form-label"><span style="color: red;">*</span>Pin Code</label>
                                         <input asp-for="PinCode" type="text" class="form-control">
                                         <span asp-validation-for="PinCode" class="form-text text-muted"></span>
 
@@ -75,8 +80,8 @@
                                     @*     <label for="creationdate" class="form-label">Creation Date</label> *@
                                     @*     <input type="date" class="form-control" id="creationdate" name="creationdate" required> *@
                                     @* </div> *@
-                                    <button type="submit" class="btn btn-primary">Submit</button>
-                                    <a class="btn btn-danger" asp-area="" asp-controller="City" asp-action="CityList">Cancle</a>
+                                    <button type="submit" class="btn btn-success">Submit</button>
+                                    <a class="btn btn-danger" asp-area="" asp-controller="City" asp-action="CityList">Cancel</a>
 
                                 </form>
                             </div>
