@@ -232,7 +232,7 @@ END;
 EXEC Sp_MST_City_SelectAll;
 EXEC Sp_MST_City_SelectByID @CityID = 1;
 EXEC Sp_MST_City_Insert @StateID = 1, @CityName = 'Los Angeles', @STDCode = '323', @PinCode = '90001';
-EXEC Sp_MST_City_Insert @StateID = 1, @CityName = 'India', @STDCode = '111', @PinCode = '90002';
+EXEC Sp_MST_City_Insert @StateID = 1, @CityName = 'Rajkot', @STDCode = '111', @PinCode = '90002';
 EXEC Sp_MST_City_Update @CityID = 1, @StateID = 1, @CityName = 'New York', @STDCode = '212', @PinCode = '10001';
 EXEC Sp_MST_City_DeleteByID @CityID = 1;
 

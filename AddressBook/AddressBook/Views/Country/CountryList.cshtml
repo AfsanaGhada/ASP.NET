@@ -1,5 +1,5 @@
-﻿
-
+﻿@model DataTable
+@using System.Data
 
 <main id="main" class="main">
 
@@ -52,7 +52,9 @@
 
                 <div class="card">
                     <div class="card-body">
-                        <a class="btn btn-success float-end mb-2 mt-3" asp-area="" asp-controller="Country" asp-action="CountryForm">Add State</a>
+                        <span class="text-danger">@TempData["ErrorMessage"]</span>
+
+                        <a class="btn btn-success float-end mb-2 mt-3" asp-area="" asp-controller="Country" asp-action="CountryForm">Add Country</a>
 
                         <!-- Table with stripped rows -->
                         <table class="table datatable">
@@ -61,45 +63,38 @@
 
                             <thead>
                                 <tr class="table-dark">
-                                    @* <th>CountryID </th> *@
+                                     <th>CountryID </th> 
                                     <th>CountryName</th>
                                     <th>CountryCode</th>
-                                    @* <th>CreationDate</th> *@
+                                    <th>CreationDate</th> 
+                                    <th>User Name</th>
+                                    <th>Action</th>
 
                                 </tr>
                             </thead>
 
                             <tbody>
-                                <tr>
-                                    @* <td>1</td> *@
-                                    <td>United States</td>
-                                    <td>US</td>
-                                    @* <td>1776-07-04</td> *@
-                                </tr>
-                                <tr>
-                                    @* <td>2</td> *@
-                                    <td>Canada</td>
-                                    <td>CA</td>
-                                    @* <td>1867-07-01</td> *@
-                                </tr>
-                                <tr>
-                                    @* <td>3</td> *@
-                                    <td>Germany</td>
-                                    <td>DE</td>
-                                    @* <td>1871-01-18</td> *@
-                                </tr>
-                                <tr>
-                                    @* <td>4</td> *@
-                                    <td>India</td>
-                                    <td>IN</td>
-                                    @* <td>1947-08-15</td> *@
-                                </tr>
-                                <tr>
-                                    @* <td>5</td> *@
-                                    <td>Australia</td>
-                                    <td>AU</td>
-                                    @* <td>1901-01-01</td> *@
-                                </tr>
+                                @foreach (DataRow dataRow in Model.Rows)
+                                {
+                                   
+                                    <tr>
+                                        <td>@dataRow["CountryID"]</td>
+                                                    <td> @dataRow["CountryName"] </td>
+                                                    <td> @dataRow["CountryCode"] </td>
+                                                    <td> @dataRow["CreationDate"] </td>
+                                                    <td> @dataRow["UserName"] </td>
+                                        <td>
+                                            <a asp-controller="Country" asp-action="CountryForm" class="btn btn-primary">
+                                                <i class="bi bi-pencil-fill"></i>Edit
+
+                                            </a>
+                                            <a asp-controller="Country" asp-action="CountryDelete" asp-route-CountryID="@dataRow["CountryID"]" class="btn btn-danger btn-xs">
+                                                <i class="bi bi-x">Delete</i>
+                                            </a>
+
+                                        </td>
+                                    </tr>
+                                }
                             </tbody>
                         </table>
                         <!-- End Table with stripped rows -->

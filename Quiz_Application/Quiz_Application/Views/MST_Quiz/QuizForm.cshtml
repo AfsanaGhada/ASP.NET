@@ -46,21 +46,23 @@
                                             <span style="color: red;">*</span>Total Questions
                                         </label>
                                         <input asp-for="TotalQuestions" type="number" class="form-control">
-                                        <span asp-validation-for="TotalQuestions" class="form-text text-muted"></span>
+                                        <span asp-validation-for="TotalQuestions" class="form-text text-danger"></span>
                                     </div>
                                     <div class="mb-3"> 
                                          <label for="quizdate" class="form-label">
                                             <span style="color: red;">*</span>Quiz Date
                                         </label>
-                                        <input type="date" class="form-control" id="quizdate" name="quizdate"> 
+                                        <input asp-for="QuizDate" type="date" class="form-control">
+                                        <span asp-validation-for="QuizDate" class="form-text text-danger"></span>
+
                                      </div>
                                     <div class="mb-3">
                                         <label for="userName" class="form-label">
-                                            <span style="color: red;">*</span>User Name
+                                            <span style="color: red;">*</span>User Id
 
                                         </label>
-                                        <input asp-for="UserID" type="text" class="form-control">
-                                        <span asp-validation-for="UserID" class="form-text text-muted"></span>
+                                        <input asp-for="UserID" type="number" class="form-control">
+                                        <span asp-validation-for="UserID" class="form-text text-danger"></span>
 
                                     </div>
                                     @* <div class="mb-3"> *@
