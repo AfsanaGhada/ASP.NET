@@ -23,6 +23,26 @@ namespace Product.Controllers
             return View();
         }
 
+        public IActionResult User_Form()
+        {
+            return View();
+        }
+
+        public IActionResult User_List()
+        {
+            return View();
+        }
+        public IActionResult Save(IFormCollection fc)
+        {
+            ViewBag.name = fc["name"];
+            ViewBag.email = fc["email"];
+            ViewBag.phone = fc["phone"];
+            ViewBag.address = fc["address"];
+
+            return View("User_List");
+        }
+
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

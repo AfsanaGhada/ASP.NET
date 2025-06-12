@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Employee_Detail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04E15772-E7AF-44E3-AA59-85F479C7C729}|Employee_Detail\\Employee_Detail.csproj|d:\\semester_4\\asp.net\\practical\\employee_detail\\employee_detail\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04E15772-E7AF-44E3-AA59-85F479C7C729}|Employee_Detail\\Employee_Detail.csproj|solutionrelative:employee_detail\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E15772-E7AF-44E3-AA59-85F479C7C729}|Employee_Detail\\Employee_Detail.csproj|d:\\semester_4\\asp.net\\practical\\employee_detail\\employee_detail\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E15772-E7AF-44E3-AA59-85F479C7C729}|Employee_Detail\\Employee_Detail.csproj|solutionrelative:employee_detail\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E15772-E7AF-44E3-AA59-85F479C7C729}|Employee_Detail\\Employee_Detail.csproj|d:\\semester_4\\asp.net\\practical\\employee_detail\\employee_detail\\views\\home\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E15772-E7AF-44E3-AA59-85F479C7C729}|Employee_Detail\\Employee_Detail.csproj|solutionrelative:employee_detail\\views\\home\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E15772-E7AF-44E3-AA59-85F479C7C729}|Employee_Detail\\Employee_Detail.csproj|d:\\semester_4\\asp.net\\practical\\employee_detail\\employee_detail\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E15772-E7AF-44E3-AA59-85F479C7C729}|Employee_Detail\\Employee_Detail.csproj|solutionrelative:employee_detail\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E15772-E7AF-44E3-AA59-85F479C7C729}|Employee_Detail\\Employee_Detail.csproj|d:\\semester_4\\asp.net\\practical\\employee_detail\\employee_detail\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E15772-E7AF-44E3-AA59-85F479C7C729}|Employee_Detail\\Employee_Detail.csproj|solutionrelative:employee_detail\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E15772-E7AF-44E3-AA59-85F479C7C729}|Employee_Detail\\Employee_Detail.csproj|d:\\semester_4\\asp.net\\practical\\employee_detail\\employee_detail\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E15772-E7AF-44E3-AA59-85F479C7C729}|Employee_Detail\\Employee_Detail.csproj|solutionrelative:employee_detail\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Employee_Detail\\Employee_Detail\\appsettings.json",
+              "RelativeDocumentMoniker": "Employee_Detail\\appsettings.json",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Employee_Detail\\Employee_Detail\\appsettings.json",
+              "RelativeToolTip": "Employee_Detail\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T03:06:11.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Employee_Detail\\Employee_Detail\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Employee_Detail\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Employee_Detail\\Employee_Detail\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Employee_Detail\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T03:04:24.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Employee_Detail\\Employee_Detail\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Employee_Detail\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Employee_Detail\\Employee_Detail\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Employee_Detail\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:29:22.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1958091293:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Employee_Detail\\Employee_Detail\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee_Detail\\Models\\Employee.cs",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Employee_Detail\\Employee_Detail\\Models\\Employee.cs",
+              "RelativeToolTip": "Employee_Detail\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:29:15.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeList.cshtml",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Employee_Detail\\Employee_Detail\\Views\\Home\\EmployeeList.cshtml",
+              "RelativeDocumentMoniker": "Employee_Detail\\Views\\Home\\EmployeeList.cshtml",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Employee_Detail\\Employee_Detail\\Views\\Home\\EmployeeList.cshtml",
+              "RelativeToolTip": "Employee_Detail\\Views\\Home\\EmployeeList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T02:28:56.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Employee_Detail\\Employee_Detail\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Employee_Detail\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\SEMESTER_4\\ASP.NET\\PRACTICAL\\Employee_Detail\\Employee_Detail\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Employee_Detail\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:27:52.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -47,12 +47,12 @@ namespace AddressBook.Controllers
                 }
 
                 TempData["SuccessMessage"] = "City deleted successfully.";
-                return RedirectToAction("CityList");
+                return RedirectToAction("StateList");
             }
             catch (Exception ex)
             {
                 TempData["ErrorMessage"] = "An error occurred while deleting the city: " + ex.Message;
-                return RedirectToAction("CityList");
+                return RedirectToAction("StateList");
             }
         }
     }

@@ -2,6 +2,7 @@
 using System.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
+using AddressBook.Models;
 
 namespace AddressBook.Controllers
 {
@@ -68,5 +69,63 @@ namespace AddressBook.Controllers
                 return RedirectToAction("CountryList");
             }
         }
+        public IActionResult CountryAddEdit(CountryModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                string connectionString = this._configuration.GetConnectionString("ConnectionString");
+                SqlConnection connection = new SqlConnection(connectionString);
+                connection.Open();
+                SqlCommand command = connection.CreateCommand();
+                command.CommandType = CommandType.StoredProcedure;
+
+                if (model.CountryID == 0)
+                {
+                    command.CommandText = "PR_Country_Insert";
+                }
+                else
+                {
+                    command.CommandText = "PR_Country_UpdateByPK";
+                    command.Parameters.Add("@CountryID", SqlDbType.Int).Value = model.CountryID;
+                }
+                command.Parameters.Add("@CountryName", SqlDbType.VarChar).Value = model.CountryName;
+                command.Parameters.Add("@CountryCode", SqlDbType.VarChar).Value = model.CountryCode;
+                //command.Parameters.Add("@CountryCapital", SqlDbType.VarChar).Value = model.CountryCapital;
+                //command.Parameters.Add("@UserID", SqlDbType.Int).Value = CommonVariable.UserID();
+                command.ExecuteNonQuery();
+                return RedirectToAction("CountryList");
+            }
+
+            return View("CountryForm", model);
+        }
+        public IActionResult CountrySearch(string CountryName, string CountryCode)
+        {
+            string connectionString = _configuration.GetConnectionString("ConnectionString");
+            DataTable table = new DataTable();
+
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                connection.Open();
+                using (SqlCommand command = connection.CreateCommand())
+                {
+                    command.CommandType = CommandType.StoredProcedure;
+                    command.CommandText = "PR_Country_Search";
+
+                    command.Parameters.AddWithValue("@CountryName", (object)CountryName ?? DBNull.Value);
+                    command.Parameters.AddWithValue("@CountryCode", (object)CountryCode ?? DBNull.Value);
+
+                    using (SqlDataReader reader = command.ExecuteReader())
+                    {
+                        table.Load(reader);
+                    }
+                }
+            }
+
+            ViewBag.CountryName = CountryName;
+            ViewBag.CountryCode = CountryCode;
+            return View("CountryList", table); // Reuse the existing view
+        }
+
+
     }
 }

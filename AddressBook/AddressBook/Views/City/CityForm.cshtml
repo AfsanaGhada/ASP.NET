@@ -29,31 +29,29 @@
                             <div class="container mt-5">
                                 <h2 class="mb-4">Add/Edit City</h2>
 
-                                <form action="#" method="POST">
+                                <form asp-action="CitySave" asp-controller="City" method="POST">
+                                    @Html.AntiForgeryToken()
+
+                                    <input type="hidden" asp-for="CityID" />
+
                                     <div class="mb-3">
                                         <label for="CountryName" class="form-label"><span style="color: red;">*</span>Country Name</label>
-                                        <select asp-for="CountryID" class="form-control" >
-                                            <option value="">select country</option>
 
-                                            <option value="1">India</option>
-                                            <option value="2">US</option>
-                                            <option value="3">UK</option>
-
+                                        <label for="CountryName" class="form-label">Country Name</label>
+                                        <select asp-for="CountryID" asp-items="ViewBag.CountryList" class="form-control">
+                                            <option value="">-- Select Country --</option>
                                         </select>
+
                                         <span asp-validation-for="CountryID" class="form-textz" style="color: red;"></span>
                                     </div>
+                                   
                                     <div class="mb-3">
-                                        <label for="StateName" class="form-label"><span style="color: red;">*</span>State Name</label>
-                                        <select asp-for="StateID" class="form-control" >
-                                            <option value="">select state</option>
-
-                                            <option value="1">Gujrat</option>
-                                            <option value="2">Jammu Kasmir</option>
-                                            <option value="3">Texas</option>
-                                            <option value="4">Cali Fornia</option>
-
-
+                                        <label for="StateName" class="form-label">State Name</label>
+                                        <select asp-for="StateID" asp-items="ViewBag.StateList" class="form-control">
+                                            <option value="">-- Select State --</option>
                                         </select>
+
+
                                         <span asp-validation-for="StateID" class="form-text" style="color: red;"></span>
 
                                     </div>
@@ -73,9 +71,10 @@
                                         <label for="pincode" class="form-label"><span style="color: red;">*</span>Pin Code</label>
                                         <input asp-for="PinCode" type="text" class="form-control">
                                         <span asp-validation-for="PinCode" class="form-text" style="color: red;"></span>
-
+                                        <span asp-validation-for="StateID" class="form-text text-muted"></span>
 
                                     </div>
+                                   
                                     @* <div class="mb-3"> *@
                                     @*     <label for="creationdate" class="form-label">Creation Date</label> *@
                                     @*     <input type="date" class="form-control" id="creationdate" name="creationdate" required> *@

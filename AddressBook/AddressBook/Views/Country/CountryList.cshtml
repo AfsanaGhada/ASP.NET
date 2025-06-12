@@ -14,45 +14,51 @@
         </nav>
     </div><!-- End Page Title -->
     <section class="section">
-        <div class="row">
-            <div class="col-lg-12">
-
-                <div class="card">
-                    <div class="card-body">
-                        <div>
-                            <h5 class="card-title">Search User</h5>
-
-                            <form class="row g-3">
-                                <div class="col-md-4">
-                                    <label for="CountryName" class="form-label">CountryName</label>
-
-                                    <input type="text" class="form-control  border border-black" placeholder="Enter Country Name">
-                                </div>
-                                <div class="col-md-4">
-                                    <label for="CountryCode" class="form-label">CountryCode</label>
-
-                                    <input type="text" class="form-control  border border-black" placeholder="Enter CountryCode">
-                                </div>
-                               
-                                <div class="text-start">
-                                    <button type="submit" class="btn btn-success">Search</button>
-                                    <button type="reset" class="btn btn-danger">Reset</button>
-                                </div>
-                            </form><!-- End No Labels Form -->
-                        </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Search Country</h5>
+                    <form class="row g-3" method="get" asp-action="CountrySearch">
+                    <div class="col-md-4">
+                        <label for="CountryName" class="form-label">Country Name</label>
+                        <input type="text" name="CountryName" class="form-control" placeholder="Enter Country Name" value="@ViewBag.CountryName" />
                     </div>
+                    <div class="col-md-4">
+                        <label for="CountryCode" class="form-label">Country Code</label>
+                        <input type="text" name="CountryCode" class="form-control" placeholder="Enter Country Code" value="@ViewBag.CountryCode" />
+                    </div>
+                    <div class="col-md-4 align-self-end">
+                        <button type="submit" class="btn btn-success">Search</button>
+                        <a href="@Url.Action("CountryList")" class="btn btn-danger">Reset</a>
+                    </div>
+                </form>
+
                 </div>
             </div>
-    </section>
+        </div>
+    </div>
+</section>
 
-
+          <div class="text-danger">
+                            @{
+        if (@TempData["SuccessMessage"] != null)
+        {
+            <p>@TempData["SuccessMessage"]</P>
+    }
+     if (@TempData["ErrorMessage"] != null)
+        {
+            <p>@TempData["ErrorMessage"]</P>
+    }
+    }
+    </div>
     <section class="section">
         <div class="row">
             <div class="col-lg-12">
 
                 <div class="card">
                     <div class="card-body">
-                        <span class="text-danger">@TempData["ErrorMessage"]</span>
+                        @* <span class="text-danger">@TempData["ErrorMessage"]</span> *@
 
                         <a class="btn btn-success float-end mb-2 mt-3" asp-area="" asp-controller="Country" asp-action="CountryForm">Add Country</a>
 
@@ -62,7 +68,7 @@
 
 
                             <thead>
-                                <tr class="table-dark">
+                                <tr>
                                      <th>CountryID </th> 
                                     <th>CountryName</th>
                                     <th>CountryCode</th>
@@ -84,11 +90,11 @@
                                                     <td> @dataRow["CreationDate"] </td>
                                                     <td> @dataRow["UserName"] </td>
                                         <td>
-                                            <a asp-controller="Country" asp-action="CountryForm" class="btn btn-primary">
+                                            <a asp-controller="Country" asp-action="CountryForm" class="btn btn-primary" onclick="return confirm('Are you sure you want to Edit this Country?')">
                                                 <i class="bi bi-pencil-fill"></i>Edit
 
                                             </a>
-                                            <a asp-controller="Country" asp-action="CountryDelete" asp-route-CountryID="@dataRow["CountryID"]" class="btn btn-danger btn-xs">
+                                            <a asp-controller="Country" asp-action="CountryDelete" asp-route-CountryID="@dataRow["CountryID"]" class="btn btn-danger btn-xs" onclick="return confirm('Are you sure you want to Edit this Country?')">
                                                 <i class="bi bi-x">Delete</i>
                                             </a>
 

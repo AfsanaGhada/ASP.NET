@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Controllers",
-    "\\Views",
+    "\\Views\\Home",
     "\\Views\\Product",
     "\\Views\\Shared"
   ],
+  "SelectedNode": "\\Product.sln",
   "PreviewInSolutionExplorer": false
 }
